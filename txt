@@ -1,0 +1,11 @@
+elasticsearch-service-tokens create elastic/kibana ali-badass-token
+
+SERVICE_TOKEN elastic/kibana/ali-badass-token = AAEAAWVsYXN0aWMva2liYW5hL2FsaS1iYWRhc3MtdG9rZW46Y2UyV3RSSzlRU0NDaFBuX3htWDlxQQ
+
+
+
+
+
+curl -H "Authorization: Bearer AAEAAWVsYXN0aWMva2liYW5hL2FsaS1iYWRhc3M$" http://localhost:9200/_cluster/health
+
+

@@ -33,6 +33,10 @@ services:
       context: kibana/
       args:
         ELK_VERSION: $ELK_VERSION
+
+
+    environment:
+      KIBANA_SYSTEM_PASSWORD: ${KIBANA_SYSTEM_PASSWORD:-}
     volumes:
       - type: bind
         source: ./kibana/config/kibana.yml
