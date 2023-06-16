@@ -1,0 +1,1 @@
+redis_auth = "kardon!!213"

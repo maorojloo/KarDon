@@ -1,4 +1,5 @@
 from datetime import datetime
+import time 
 from elasticsearch_dsl import (
                               Document, Date, Integer,
                               Keyword, Text , Long ,
@@ -192,4 +193,4 @@ class JobPost(Document):
         return super().save(**kwargs)
 
 # create the mappings in Elasticsearch
-JobPost.init()
+#JobPost.init()
