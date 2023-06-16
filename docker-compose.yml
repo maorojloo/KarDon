@@ -49,6 +49,19 @@ services:
     depends_on:
       - elasticsearch
 
+
+  redis:
+    image: redis:6.2-alpine
+    restart: always
+    env_file:
+      - .env
+    #ports:
+    #  - '6379:6379'
+    command: redis-server --save 20 1 --loglevel warning --requirepass kardon!!213
+    volumes:
+      - ./redis-data:/data
+    network_mode: "host"
+
 networks:
   kardon:
     driver: bridge
