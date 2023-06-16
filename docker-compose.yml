@@ -1,0 +1,53 @@
+version: '3.3'
+
+services:
+  elasticsearch:
+    # restart: always
+    build:
+      context: elasticsearch/
+      args:
+        ELK_VERSION: $ELK_VERSION
+    volumes:
+      - type: bind
+        source: ./elasticsearch/config/elasticsearch.yml
+        target: /usr/share/elasticsearch/config/elasticsearch.yml
+        read_only: true
+      - type: volume
+        source: elasticsearch_data
+        target: /usr/share/elasticsearch/data
+    ports:
+      - "9208:9200"
+      - "9308:9300"
+    environment:
+      # TODO: Change these parameters
+      ES_JAVA_OPTS: "-Xmx1g -Xms512m"
+      ELASTIC_PASSWORD: $ELK_PASSWORD
+      # Use single node discovery in order to disable production mode and avoid bootstrap checks
+      # see https://www.elastic.co/guide/en/elasticsearch/reference/current/bootstrap-checks.html
+      discovery.type: single-node
+    networks:
+      - kardon
+  kibana:
+    # restart: always
+    build:
+      context: kibana/
+      args:
+        ELK_VERSION: $ELK_VERSION
+    volumes:
+      - type: bind
+        source: ./kibana/config/kibana.yml
+        target: /usr/share/kibana/config/kibana.yml
+        read_only: true
+    ports:
+      - "5608:5601"
+    networks:
+      - kardon
+    depends_on:
+      - elasticsearch
+
+networks:
+  kardon:
+    driver: bridge
+
+volumes:
+  elasticsearch_data:
