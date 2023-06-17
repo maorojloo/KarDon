@@ -12,7 +12,7 @@ ELASTIC_HOSTS_CONFIG = ['elastic:KardonCoolPass1x3@localhost:9208']
 connections.create_connection(hosts=ELASTIC_HOSTS_CONFIG)
 
 
-ALIAS = 'kardon'
+ALIAS = 'kardon1'
 PATTERN = ALIAS + '-*'
 
 
@@ -38,18 +38,20 @@ class CompanyInfo(InnerDoc):
     name_fa = Text(analyzer=PERSIAN_ANALYZER, search_analyzer=PERSIAN_SEARCH_ANALYZER)
     name_en = Text()
     about = Object(NormalDoc)
-    
 
 class Province(InnerDoc):
+    Id = Short()
     titleFa = Text(analyzer=PERSIAN_ANALYZER, search_analyzer=PERSIAN_SEARCH_ANALYZER)
     titleEn = Text()
 
 
 class City(InnerDoc):
+    Id = Short()
     titleFa = Text(analyzer=PERSIAN_ANALYZER, search_analyzer=PERSIAN_SEARCH_ANALYZER)
     titleEn = Text()
 
 class Country(InnerDoc):
+    Id = Short()
     titleFa = Text(analyzer=PERSIAN_ANALYZER, search_analyzer=PERSIAN_SEARCH_ANALYZER)
     titleEn = Text()
 
@@ -84,7 +86,7 @@ class AcademicRequirements(InnerDoc):
     titleEn = Text()
 
 class RequiredEducations(InnerDoc):
-    Id = Short()
+    Id = Long()
     titleFa = Text(analyzer=PERSIAN_ANALYZER, search_analyzer=PERSIAN_SEARCH_ANALYZER)
     titleEn = Text()
 
@@ -111,6 +113,7 @@ class JobPost(Document):
     activation_time = Object(ActivationTime)
     normalize_salary_min = Long()
     normalize_salary_max = Long()
+    academic_requirements = Object(AcademicRequirements)
     requiredLanguageSkills = Text()
     skills = Keyword()
     required_work_experience = Text()
@@ -134,7 +137,7 @@ class JobPost(Document):
     publishTime = Object(ActivationTime)
     contactInfo = Text()
     jobPostCategories = Text()
-    
+    expireTime = Object(ExpireTime)
     class Index:
         # we will use an alias instead of the index, script_id=elastic_id
         name = ALIAS
@@ -192,4 +195,4 @@ class JobPost(Document):
         return super().save(**kwargs)
 
 # create the mappings in Elasticsearch
-#JobPost.init()
+JobPost.init()
