@@ -7,9 +7,8 @@ from elasticsearch_dsl import (
                               )
 from elasticsearch_dsl.connections import connections
 
-
-class KardonModelPost:
-    pass 
+ELASTIC_HOSTS_CONFIG = ['elastic:KardonCoolPass1x3@localhost:9208']
+connections.create_connection(hosts=ELASTIC_HOSTS_CONFIG)
 
 
 ALIAS = 'kardon'
@@ -97,8 +96,8 @@ class JobPost(Document):
     Id = Long()
     description = Text()
     description_clean = Text(analyzer=PERSIAN_ANALYZER, search_analyzer=PERSIAN_SEARCH_ANALYZER)
-    isPersian = Boolean(default=True)
-    isExpired = Boolean(default=False)
+    is_persian = Boolean()
+    is_expired = Boolean()
     company_info = Object(CompanyInfo) 
     sourceId = Keyword()
     url = Keyword()
