@@ -59,18 +59,17 @@ services:
     #  - '6379:6379'
     command: redis-server --save 20 1 --loglevel warning --requirepass kardon!!213
     volumes:
-      - ./redis-data:/data
+      - /redis-data:/data
     network_mode: "host"
 
-  kardon:
-    build: .
-    restart: always 
-    env_file: 
-      - .env 
-    volumes:
-      - ./:/app
-
-    network_mode: "host" 
+  #kardon:
+  #  build: .
+  #  restart: always 
+  #  env_file: 
+  #    - .env 
+  #  volumes:
+  #    - ./:/app
+  #  network_mode: "host" 
 
 networks:
   kardon:
