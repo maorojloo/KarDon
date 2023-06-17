@@ -28,12 +28,12 @@ class Company(Document):
     description = Object(NormalDoc)
     titleFa = Text(analyzer=PERSIAN_ANALYZER, search_analyzer=PERSIAN_SEARCH_ANALYZER)
     titleEn = Text()
-    name = Object(NormalDoc)
     company_logo = Keyword()
     hasPicture = Boolean(default=False)
     url = Keyword()
     job_posts = Keyword()
     job_post_count = Short()
+
 class CompanyInfo(InnerDoc):
     name_fa = Text(analyzer=PERSIAN_ANALYZER, search_analyzer=PERSIAN_SEARCH_ANALYZER)
     name_en = Text()
@@ -95,13 +95,13 @@ class ExpireTime(InnerDoc):
 class JobPost(Document):
     title = Text(analyzer=PERSIAN_ANALYZER, search_analyzer=PERSIAN_SEARCH_ANALYZER)
     Id = Long()
+    url = Keyword()
     description = Text()
     description_clean = Text(analyzer=PERSIAN_ANALYZER, search_analyzer=PERSIAN_SEARCH_ANALYZER)
     is_persian = Boolean()
     is_expired = Boolean()
     company_info = Object(CompanyInfo) 
     sourceId = Keyword()
-    url = Keyword()
     location = Object(Location)
     work_types = Object(WorkTypes)
     salary = Text(analyzer=PERSIAN_ANALYZER, search_analyzer=PERSIAN_SEARCH_ANALYZER)

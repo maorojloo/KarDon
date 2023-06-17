@@ -52,27 +52,47 @@ def getAndAddJobDetail(jobPostId,url):
     querystring = {"jobPostId":jobPostId}
     payload = ""
     response = requests.request("GET", url, data=payload, params=querystring)
+    """new_company_instance = Company(
+        titleFa= response.json()['data']['company']['name']['titleFa'],
+        company_logo =response.json()['data']['logo'],
+        #Id = ,
+        #description = NormalDoc(
+        #    titleFa = , 
+        #    titleEn = , 
+        #)
+        #titleEn = ,
+        #hasPicture = , 
+        #url = , 
+        #job_posts = ,
+        #job_post_count = 
+    )"""
 
-    
-    #new_instance = (
-    #    user_id = response.json()['data']['id'],
-    #    url = response.json()['data']['url'],
-    #    title = response.json()['data']['title'],
-    #    description= response.json()['description'],
-    #    companynametitleFa= response.json()['data']['company']['name']['titleFa'],
-    #    companylogo =response.json()['data']['logo'],
-    #    #locations =response.json()['data'],
-    #    #workTypes = response.json()['data'],
-    #    hasWorkExperienceRequirement =str2bool(response.json()['data']['hasWorkExperienceRequirement']),
-    #    hasAlternativeMilitary = str2bool(response.json()['data']['hasAlternativeMilitary']),
-    #    #benefits = response.json()['data'],
-    #    seniorityLevel=response.json()['data']['seniorityLevel'],
-    #    publishTimedate = response.json()['data']['publishTime']['date'],
-    #    jobBoardorganizationColor = response.json()['data']['jobBoard']['organizationColor'],
-    #    jobBoardtitleFa = response.json()['data']['jobBoard']['titleFa'],
-    #    jobBoardtitleEn = response.json()['data']['jobBoard']['titleEn'],
-    #    companyDetailsSummarynametitleFa = response.json()['data']['companyDetailsSummary']['name']['titleFa']
-    #    )
+    new_instance = JobPost(
+        Id = response.json()['data']['id'],
+        url = response.json()['data']['url'],
+        title = response.json()['data']['title'],
+        description= response.json()['description'],
+        # Make sure description_clean is persian 
+        description_clean = response.json()['description'],
+        company_info = CompanyInfo(
+            name_fa = response.json()['data']['company']['name']['titleFa'],
+            name_en = response.json()['data']['company']['name']['titleEn'],
+        #    about = 
+        )
+        companynametitleFa= response.json()['data']['company']['name']['titleFa'],
+        companylogo =response.json()['data']['logo'],
+        #locations =response.json()['data'],
+        #workTypes = response.json()['data'],
+        hasWorkExperienceRequirement =str2bool(response.json()['data']['hasWorkExperienceRequirement']),
+        hasAlternativeMilitary = str2bool(response.json()['data']['hasAlternativeMilitary']),
+        #benefits = response.json()['data'],
+        seniorityLevel=response.json()['data']['seniorityLevel'],
+        publishTimedate = response.json()['data']['publishTime']['date'],
+        jobBoardorganizationColor = response.json()['data']['jobBoard']['organizationColor'],
+        jobBoardtitleFa = response.json()['data']['jobBoard']['titleFa'],
+        jobBoardtitleEn = response.json()['data']['jobBoard']['titleEn'],
+        companyDetailsSummarynametitleFa = response.json()['data']['companyDetailsSummary']['name']['titleFa']
+        )
     
 
 #for i in r.keys("*"):
