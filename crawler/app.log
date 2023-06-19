@@ -1,0 +1,3533 @@
+2023-06-18 15:03:56,171 - ERROR - An exception occurred: division by zero
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 257, in <module>
+    x=2/0
+ZeroDivisionError: division by zero
+2023-06-18 15:22:04,187 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:22:07,477 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:22:21,611 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:22:22,337 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:22:23,688 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:22:30,282 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:22:35,717 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:22:42,038 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:22:48,870 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:22:51,925 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:22:58,773 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:22:58,851 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:22:59,292 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:03,076 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:03,388 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:04,704 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:07,209 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:07,209 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:09,707 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:11,586 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:19,462 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:27,956 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:34,359 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:35,487 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:36,152 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:38,910 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:44,465 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:45,991 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:46,728 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:47,377 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:50,113 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:50,505 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:51,817 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:52,739 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:23:54,195 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:11,889 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:12,314 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:15,168 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:18,139 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:18,408 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:19,109 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:20,693 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:21,660 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:22,563 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:24,687 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:24,839 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:27,350 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:30,231 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:31,649 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:48,636 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:50,913 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:51,021 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:52,856 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:53,167 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:54,767 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:54,959 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:56,325 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:24:58,739 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:01,329 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:03,123 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:04,459 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:05,244 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:06,839 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:23,517 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:25,307 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:25,307 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:27,284 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:28,120 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:29,264 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:36,063 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:37,189 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:38,004 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:38,520 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:40,565 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:45,172 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:45,206 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:51,909 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:56,949 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:25:59,821 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:01,775 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:02,306 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:03,518 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:05,221 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:10,471 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:12,316 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:12,316 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:17,035 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:19,116 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:19,860 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:24,033 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:26,753 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:33,923 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:35,511 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:36,475 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:37,045 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:41,738 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:48,966 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:49,195 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:51,529 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:51,720 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:53,436 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:26:53,532 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:03,915 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:06,172 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:08,533 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:10,095 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:10,404 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:12,037 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:20,818 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:22,675 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:25,328 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:25,367 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:27,267 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:38,230 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:48,057 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:49,666 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:49,670 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:51,717 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:27:59,321 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:28:00,860 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:28:05,364 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:28:21,887 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:28:24,508 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:28:27,246 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:28:29,593 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:28:37,975 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:28:44,888 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:28:59,532 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:29:01,749 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:29:01,756 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:29:10,220 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:29:16,944 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:29:18,830 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:29:40,321 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:29:43,255 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:29:50,907 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:12,650 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:12,652 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:13,467 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:14,534 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:14,655 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:14,702 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:22,702 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:45,143 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:45,514 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:46,082 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:46,462 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:46,611 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:46,773 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:47,093 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:47,101 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:48,177 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:48,179 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:48,508 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:48,811 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:30:59,826 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:02,021 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:19,921 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:20,174 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:20,537 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:20,613 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:20,792 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:21,161 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:22,825 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:23,407 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:23,640 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:24,019 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:30,041 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:32,174 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:36,213 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:39,278 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:55,969 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:56,036 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:56,353 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:58,126 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:31:59,081 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:00,530 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:02,930 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:02,930 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:06,961 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:08,692 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:12,470 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:13,064 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:15,126 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:19,062 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:35,451 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:35,760 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:35,975 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:36,008 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:38,359 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:38,359 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:43,478 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:46,701 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:47,340 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:47,567 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:32:49,997 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:01,095 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:03,039 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:03,960 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:10,899 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:10,964 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:13,534 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:13,903 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:17,771 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:20,345 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:22,189 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:22,497 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:24,991 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:29,421 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:36,014 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:37,387 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:40,619 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:42,975 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:46,943 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:53,694 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:54,237 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:57,834 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:33:59,829 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:01,409 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:01,487 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:01,756 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:03,250 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:08,187 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:14,819 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:16,361 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:25,370 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:25,752 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:27,831 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:28,013 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:32,335 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:33,391 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:34,592 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:35,972 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:38,839 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:40,769 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:46,598 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:48,447 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:34:59,997 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:00,392 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:06,775 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:07,973 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:08,839 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:10,782 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:12,043 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:14,366 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:18,531 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:20,357 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:20,357 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:23,534 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:42,620 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:43,913 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:44,378 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:45,240 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:45,791 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:46,146 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:47,328 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:48,605 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:55,082 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:57,257 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:57,308 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:35:58,966 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:17,375 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:18,605 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:20,098 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:20,514 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:22,544 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:24,460 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:26,278 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:30,301 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:30,409 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:30,856 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:32,251 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:32,777 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:52,337 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:54,002 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:54,207 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:58,778 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:36:59,095 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:00,571 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:00,928 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:01,615 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:02,685 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:04,469 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:04,474 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:06,763 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:09,617 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:12,177 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:31,761 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:32,931 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:33,161 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:33,267 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:34,025 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:34,526 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:34,826 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:36,320 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:37:36,956 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:38:00,072 - ERROR - An exception occurred: division by zero
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 256, in <module>
+    x=2/0
+ZeroDivisionError: division by zero
+2023-06-18 15:53:06,628 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:53:10,438 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-18 15:53:30,456 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cfbb0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0cfbb0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cfbb0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cfbb0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:30,458 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:31,648 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf9d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0cf9d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf9d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf9d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:31,650 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:50,480 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0ce560>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0ce560>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0ce560>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0ce560>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:50,480 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:50,513 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf7c0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0cf7c0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf7c0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf7c0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:50,513 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:50,531 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cc460>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0cc460>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cc460>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cc460>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:50,531 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:50,544 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0ce230>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0ce230>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0ce230>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0ce230>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:50,545 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:50,559 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf430>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0cf430>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf430>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf430>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:50,560 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:50,572 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf6d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0cf6d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf6d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf6d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:50,572 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:50,587 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cc3d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0cc3d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cc3d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cc3d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:50,588 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:50,601 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf6a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0cf6a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf6a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf6a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:50,602 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:50,614 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0ceb00>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0ceb00>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0ceb00>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0ceb00>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:50,614 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:50,628 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf670>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0cf670>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf670>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf670>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:50,629 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:50,643 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cc640>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0cc640>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cc640>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cc640>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:50,644 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:50,658 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cc670>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0cc670>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cc670>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cc670>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:50,658 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:50,671 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cea40>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0cea40>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cea40>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cea40>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:50,671 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:50,685 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf940>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0cf940>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf940>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf940>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:50,686 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:50,698 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf970>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0cf970>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf970>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cf970>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:50,699 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-18 15:53:51,668 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cebc0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f48ff0cebc0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cebc0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 53, in collectJobId
+    response = requests.request("POST", url, json=payload, headers=headers)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/maorojloo/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.karbord.io', port=443): Max retries exceeded with url: /api/v1/Candidate/JobPost/GetList (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f48ff0cebc0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-06-18 15:53:51,668 - ERROR - An exception occurred: local variable 'response' referenced before assignment
+Traceback (most recent call last):
+  File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+UnboundLocalError: local variable 'response' referenced before assignment
