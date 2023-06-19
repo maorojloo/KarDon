@@ -2,7 +2,9 @@
 ## Default Elasticsearch configuration from Elasticsearch base image.
 ## https://github.com/elastic/elasticsearch/blob/master/distribution/docker/src/docker/config/elasticsearch.yml
 #
-cluster.name: "docker-cluster"
+cluster.name: "kardon-cluster"
+node.name: "es-node-0"
+node.master: true
 network.host: 0.0.0.0
 
 ## X-Pack settings
@@ -10,6 +12,7 @@ network.host: 0.0.0.0
 #
 xpack.license.self_generated.type: basic
 xpack.security.enabled: true
+xpack.security.enrollment.enabled: true 
 xpack.monitoring.collection.enabled: true
 
 # Enable painless regex
