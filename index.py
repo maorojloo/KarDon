@@ -58,87 +58,142 @@ def importData2DB(id):
 
         locations = Location(
             country = Country(
-                Id = res['data']['locations'][0]["country"]['id'],
-                titleFa  = res['data']['locations'][0]["country"]['titleFa'],
-                titleEn = res['data']['locations'][0]["country"]['titleEn'],
+                if res['data']['locations'][0]["country"]['id']:
+                    Id = res['data']['locations'][0]["country"]['id']
+                if res['data']['locations'][0]["country"]['titleFa']:
+                    titleFa  = res['data']['locations'][0]["country"]['titleFa']
+                if res['data']['locations'][0]["country"]['titleEn']:
+                    titleEn = res['data']['locations'][0]["country"]['titleEn']
             ),
             province = Province(
-                Id = res['data']['locations'][0]["province"]['id'],
-                titleFa  = res['data']['locations'][0]["province"]['titleFa'],
-                titleEn = res['data']['locations'][0]["province"]['titleEn'],
+                if res['data']['locations'][0]["province"]['id']
+                    Id = res['data']['locations'][0]["province"]['id']
+                if res['data']['locations'][0]["province"]['titleFa']:
+                    titleFa  = res['data']['locations'][0]["province"]['titleFa']
+
+                if res['data']['locations'][0]["province"]['titleEn']:
+                    titleEn = res['data']['locations'][0]["province"]['titleEn']
             ),
             city = City(
-                Id = res['data']['locations'][0]["city"]['id'],
-                titleFa  = res['data']['locations'][0]["city"]['titleFa'],
-                titleEn = res['data']['locations'][0]["city"]['titleEn'],
+                if res['data']['locations'][0]["city"]['id']
+                    Id = res['data']['locations'][0]["city"]['id']
+                if res['data']['locations'][0]["city"]['titleFa']
+                    titleFa  = res['data']['locations'][0]["city"]['titleFa']
+                if res['data']['locations'][0]["city"]['titleEn']
+                    titleEn = res['data']['locations'][0]["city"]['titleEn']
             )
         ),
         # Parse this Worktype list and look for the 0 , 1 , ...
 
         workTypes = WorkTypes(
-            Id = res['data']['workTypes'][0]['id'],
-            titleFa  = res['data']['workTypes'][0]['titleFa'],
-            titleEn = res['data']['workTypes'][0]['titleEn']
+            if res['data']['workTypes'][0]['id']
+                Id = res['data']['workTypes'][0]['id']
+            if res['data']['workTypes'][0]['titleFa']
+                titleFa  = res['data']['workTypes'][0]['titleFa']
+            if res['data']['workTypes'][0]['titleEn']
+                titleEn = res['data']['workTypes'][0]['titleEn']
 
         ),
-        salary = res['data']['salary'],
-        normalize_salary_min = res['data']['normalizeSalaryMin'],
-        normalize_salary_max = res['data']['normalizeSalaryMax'],
-        has_no_work_experience_requirement = res['data']['hasNoWorkExperienceRequirement'],
+        if res['data']['salary']
+            salary = res['data']['salary']
+        if res['data']['normalizeSalaryMin']
+            normalize_salary_min = res['data']['normalizeSalaryMin']
+        if res['data']['normalizeSalaryMax']
+            normalize_salary_max = res['data']['normalizeSalaryMax']
+        if res['data']['hasNoWorkExperienceRequirement']
+            has_no_work_experience_requirement = res['data']['hasNoWorkExperienceRequirement']
         # Write a Gender Parser
-        gender = res['data']['gender'],
+        if res['data']['gender']
+            gender = res['data']['gender']
         # Parse This AcademicRequirements list and look for the 0 , 1, ...
         #if res['data']['academicRequirements'][0]:
         academic_requirements = AcademicRequirements(
-                Id = res['data']['academicRequirements'][0]['id'],
-                levelTitle  = res['data']['academicRequirements'][0]['levelTitle'],
-                titleFa = res['data']['academicRequirements'][0]['titleFa'],
-                titleEn = res['data']['academicRequirements'][0]['titleEn'],
+                if res['data']['academicRequirements'][0]['id']
+                    Id = res['data']['academicRequirements'][0]['id']
+                if res['data']['academicRequirements'][0]['levelTitle']
+                    levelTitle  = res['data']['academicRequirements'][0]['levelTitle']
+                if res['data']['academicRequirements'][0]['titleFa']
+                    titleFa = res['data']['academicRequirements'][0]['titleFa']
+                if res['data']['academicRequirements'][0]['titleEn']
+                    titleEn = res['data']['academicRequirements'][0]['titleEn']
             ),
-        requiredLanguageSkills = res['data']['requiredLanguageSkills'],
-        required_work_experience = res['data']['requiredWorkExperience'],
-        skills = res['data']['skills'],
+        if res['data']['requiredLanguageSkills']     
+            requiredLanguageSkills = res['data']['requiredLanguageSkills']
+        if res['data']['requiredWorkExperience']
+            required_work_experience = res['data']['requiredWorkExperience']
+        if res['data']['skills']
+            skills = res['data']['skills']
         requiredEducations = RequiredEducations(
-            Id = res['data']['requiredEducations'][0]["id"],
-            titleFa = res['data']['requiredEducations'][0]["titleFa"],
-            titleEn = res['data']['requiredEducations'][0]["titleEn"]
+            if res['data']['requiredEducations'][0]["id"]
+                id = res['data']['requiredEducations'][0]["id"]
+            if res['data']['requiredEducations'][0]["titleFa"]
+                titleFa = res['data']['requiredEducations'][0]["titleFa"]
+            if res['data']['requiredEducations'][0]["titleEn"]
+                titleEn = res['data']['requiredEducations'][0]["titleEn"]
         ),
-        military_service_state =  res['data']['militaryServiceState'],
-        is_internship = res['data']['isInternship'],
-        has_alternative_military = res['data']['hasAlternativeMilitary'],
-        is_remote = res['data']['isRemote'],
-        hasInsurance = res['data']['hasInsurance'],
-        paymentMethod = res['data']['paymentMethod'],
-        workHours = res['data']['workHours'],
-        seniorityLevel=res['data']['seniorityLevel'],
+        if res['data']['militaryServiceState']
+            military_service_state =  res['data']['militaryServiceState']
+        if res['data']['isInternship']
+            is_internship = res['data']['isInternship']
+        if res['data']['hasAlternativeMilitary']
+            has_alternative_military = res['data']['hasAlternativeMilitary']
+        if res['data']['isRemote']
+            is_remote = res['data']['isRemote']
+        if res['data']['hasInsurance']
+            hasInsurance = res['data']['hasInsurance']
+        if res['data']['paymentMethod']
+            paymentMethod = res['data']['paymentMethod']
+        if res['data']['workHours']
+            workHours = res['data']['workHours']
+        if res['data']['seniorityLevel']
+            seniorityLevel=res['data']['seniorityLevel']
         publishTime = ActivationTime(
             # passedDays = res['data']['publishTime']['passedDays'],
             # beautifyFa = res['data']['publishTime']['beautifyFa'],
             # beautifyEn = res['data']['publishTime']['beautifyEn'],
-            date = res['data']['publishTime']['date'],
+            if res['data']['publishTime']['date']
+                date = res['data']['publishTime']['date']
         ),
-        benefits = res['data']['benefits'],
-        requiredKnowledge = res['data']['requiredKnowledge'],
-        businessTripsDescription = res['data']['businessTripsDescription'],
-        minAge = res['data']['minAge'] ,
-        maxAge = res['data']['maxAge'],
-        softwareSkills = res['data']['softwareSkills'],
-        labels = res['data']['labels'],
+        if res['data']['benefits']
+            benefits = res['data']['benefits']
+        if res['data']['requiredKnowledge']           
+            requiredKnowledge = res['data']['requiredKnowledge']
+        if res['data']['businessTripsDescription']
+            businessTripsDescription = res['data']['businessTripsDescription']
+        if res['data']['minAge']
+            minAge = res['data']['minAge'] 
+        if res['data']['maxAge']
+            maxAge = res['data']['maxAge']
+        if res['data']['softwareSkills']
+            softwareSkills = res['data']['softwareSkills']
+        if res['data']['labels']
+            labels = res['data']['labels']
+
         expireTime = ExpireTime(
-            date = res['data']['expireTime']['date'],
+            if res['data']['expireTime']['date']
+                date = res['data']['expireTime']['date']
             # days_left_until = res['data']['expireTime']['daysLeftUntil']
         ),
-        is_expired =  res['data']['isExpired'],
-        contactInfo = res['data']['contactInfo'],
+        if res['data']['isExpired']
+            is_expired =  res['data']['isExpired']
+        if res['data']['contactInfo']
+            contactInfo = res['data']['contactInfo']
         # This fields needs a lot more to look!
         #jobPostCategories = res['data']['jobPostCategories'],
         job_board = JobBoard(
-            organizationColor = res['data']['jobBoard']['organizationColor'],
-            Id = res['data']['jobBoard']['id'] ,
-            titleFa = res['data']['jobBoard']['titleFa'],
-            titleEn = res['data']['jobBoard']['titleEn'] ,
+            if res['data']['jobBoard']['organizationColor']
+                organizationColor = res['data']['jobBoard']['organizationColor']
+            if res['data']['jobBoard']['id'] 
+                Id = res['data']['jobBoard']['id'] 
+            if res['data']['jobBoard']['titleFa']
+                titleFa = res['data']['jobBoard']['titleFa']
+            if res['data']['jobBoard']['titleEn'] 
+                titleEn = res['data']['jobBoard']['titleEn'] 
         )
         )
+
+
+
     elastic_id = new_instance.save(refresh=True)
     print(elastic_id)
 
