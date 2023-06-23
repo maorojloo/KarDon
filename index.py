@@ -164,12 +164,10 @@ def importData2DB(id):
     querystring = {"jobPostId":id}
     payload = ""
     response = requests.request("GET", url, data=payload, params=querystring)
-
-    res= replace_none_with_empty(response.json())
-    res = fill_missing_values(res, example_json)
-
-     
-
+    
+    orginaljson=response.json()
+    fill_missing_values(orginaljson, example_json)
+    res= replace_none_with_empty(orginaljson)
 
 
 
