@@ -58,7 +58,7 @@ def importData2DB(id):
 
         locations = Location(
             country = Country(
-                if not res['data']['locations'][0]["country"]['id'] == null:
+                if  res['data']['locations'][0]["country"]['id'] is not None:
                     Id = res['data']['locations'][0]["country"]['id']
                 if res['data']['locations'][0]["country"]['titleFa']:
                     titleFa  = res['data']['locations'][0]["country"]['titleFa']
