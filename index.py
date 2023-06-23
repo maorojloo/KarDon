@@ -29,6 +29,10 @@ def importData2DB(id):
     response = requests.request("GET", url, data=payload, params=querystring)
     res = replace_none_with_empty(response.json())
 
+    print("$$$$$$$$$$$$$$$$$$$$$$$$$$$")
+    print(id)
+    print("$$$$$$$$$$$$$$$$$$$$$$$$$$$")
+
 
 
     new_company_instance = Company(
