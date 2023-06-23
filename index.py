@@ -151,13 +151,22 @@ def fill_missing_values(json_obj, example_obj):
         elif isinstance(example_obj[key], dict) and isinstance(json_obj[key], dict):
             fill_missing_values(json_obj[key], example_obj[key])
 
+def replace_none_with_empty(json_obj):
+    if isinstance(json_obj, dict):
+        return {k: replace_none_with_empty(v) if v is not None else "" for k, v in json_obj.items()}
+    elif isinstance(json_obj, list):
+        return [replace_none_with_empty(elem) if elem is not None else "" for elem in json_obj]
+    else:
+        return json_obj
+
 def importData2DB(id):
     url = "https://api.karbord.io/api/v1/Candidate/JobPost/GetDetail"
     querystring = {"jobPostId":id}
     payload = ""
     response = requests.request("GET", url, data=payload, params=querystring)
 
-    res = fill_missing_values(response.json(), example_json)
+    res= replace_none_with_empty(response.json())
+    res = fill_missing_values(res, example_json)
 
      
 
