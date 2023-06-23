@@ -9,7 +9,13 @@ import logging
 import time
 
 
-
+def replace_none_with_empty(json_obj):
+    if isinstance(json_obj, dict):
+        return {k: replace_none_with_empty(v) if v is not None else "" for k, v in json_obj.items()}
+    elif isinstance(json_obj, list):
+        return [replace_none_with_empty(elem) if elem is not None else "" for elem in json_obj]
+    else:
+        return json_obj
 
 
 redis_client = redis.Redis(host='localhost', port=6379, password='kardon!!213',  db=0)
@@ -21,8 +27,8 @@ def importData2DB(id):
     querystring = {"jobPostId":id}
     payload = ""
     response = requests.request("GET", url, data=payload, params=querystring)
-    res = response.json()
-    print(res)
+    res = replace_none_with_empty(response.json())
+
 
 
     new_company_instance = Company(
