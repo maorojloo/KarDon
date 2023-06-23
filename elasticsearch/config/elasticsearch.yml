@@ -4,7 +4,6 @@
 #
 cluster.name: "kardon-cluster"
 node.name: "es-node-0"
-node.master: true
 network.host: 0.0.0.0
 
 ## X-Pack settings

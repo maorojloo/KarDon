@@ -3531,3 +3531,1524 @@ Traceback (most recent call last):
   File "/home/maorojloo/Desktop/Code/KarDon/crawler/main.py", line 65, in collectJobId
     jobs=response.json()['data']['jobPosts']
 UnboundLocalError: local variable 'response' referenced before assignment
+2023-06-23 13:12:49,980 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:50,021 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:50,474 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:51,331 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:52,405 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:52,409 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:52,727 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:52,941 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:53,688 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:54,140 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:54,233 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:54,463 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:54,989 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:55,034 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:55,446 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:55,812 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:56,146 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:56,276 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:56,335 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:56,352 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:56,757 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:57,033 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:57,514 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:57,591 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:57,694 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:57,750 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:57,840 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:58,135 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:58,362 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:58,941 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:59,072 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:59,411 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:59,537 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:59,593 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:59,632 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:12:59,872 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:00,405 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:00,556 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:00,872 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:00,987 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:00,994 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:01,158 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:01,490 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:01,813 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:01,915 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:02,226 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:02,344 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:02,466 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:02,468 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:02,750 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:03,216 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:03,709 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:03,735 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:03,996 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:04,040 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:04,296 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:04,545 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:04,885 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:04,990 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:05,370 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:05,543 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:05,679 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:05,829 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:05,975 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:06,138 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:06,545 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:07,213 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:07,216 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:07,252 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:07,290 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:07,346 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:07,636 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:07,904 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:08,519 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:08,723 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:08,883 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:09,340 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:09,853 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:10,047 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:10,190 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:10,660 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:11,150 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:11,346 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:11,493 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:11,986 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:12,479 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:12,694 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:12,793 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:34,201 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:34,239 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:34,275 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:34,294 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:34,312 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:34,314 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:34,330 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:35,461 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:35,589 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:35,652 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:36,212 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:36,280 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:36,280 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:36,325 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:36,751 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:36,850 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:36,868 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:37,487 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:37,623 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:37,649 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:37,831 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:38,078 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:38,107 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:38,772 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:38,884 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:38,964 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:39,388 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:39,488 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:39,613 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:39,872 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:40,076 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:40,161 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:40,258 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:40,723 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:41,094 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:41,385 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:41,478 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:41,718 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:41,912 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:41,981 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:42,755 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:42,793 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:43,020 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:43,451 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:43,839 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:44,033 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:44,059 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:44,068 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:44,359 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:44,372 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:44,801 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:45,365 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:45,839 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:45,934 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:46,011 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:46,041 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:46,125 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:46,202 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:46,696 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:47,289 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:47,389 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:47,605 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:47,729 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:47,905 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:47,949 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:48,031 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:48,701 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:49,244 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:49,525 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:49,750 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:49,953 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:50,074 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:50,176 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:50,524 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:50,893 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:51,028 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:51,271 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:51,365 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:51,372 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:51,523 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:52,090 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:52,338 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:52,557 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:52,898 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:52,940 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:53,399 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:54,075 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:54,163 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:54,202 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:54,223 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:54,319 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:54,403 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
+2023-06-23 13:13:54,733 - ERROR - An exception occurred: 'data'
+Traceback (most recent call last):
+  File "kardon.py", line 65, in collectJobId
+    jobs=response.json()['data']['jobPosts']
+KeyError: 'data'
