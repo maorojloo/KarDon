@@ -7,21 +7,159 @@ import math
 from multiprocessing import Pool
 import logging
 import time
+import json
 
 
+
+example_json = {
+	"data": {
+		"id": "",
+		"sourceId": "",
+		"title": "",
+		"url": "",
+		"description": "",
+		"isPersian": "",
+		"company": {
+			"name": {
+				"titleFa": "",
+				"titleEn": ""
+			},
+			"description": {
+				"titleFa": "",
+				"titleEn": ""
+			},
+			"hasPicture": "",
+			"logo": "",
+			"url": ""
+		},
+		"locations": [
+			{
+				"province": {
+					"id": "",
+					"titleFa": "",
+					"titleEn": ""
+				},
+				"city": {
+					"id": "",
+					"titleFa": "",
+					"titleEn": ""
+				},
+				"country": {
+					"id": "",
+					"titleFa": "",
+					"titleEn": ""
+				}
+			}
+		],
+		"workTypes": [
+			{
+				"id": "",
+				"titleFa": "",
+				"titleEn": ""
+			}
+		],
+		"salary": "",
+		"normalizeSalaryMin": "",
+		"normalizeSalaryMax": "",
+		"gender": "",
+		"academicRequirements": [
+			{
+				"levelTitle": "",
+				"id": "",
+				"titleFa": "",
+				"titleEn": ""
+			}
+		],
+		"requiredLanguageSkills": "",
+		"skills": "",
+		"requiredWorkExperience": "",
+		"hasNoWorkExperienceRequirement": "",
+		"requiredEducations": [
+			{
+				"id": "",
+				"titleFa": "",
+				"titleEn": ""
+			}
+		],
+		"militaryServiceState": "",
+		"isInternship": "",
+		"hasAlternativeMilitary": "",
+		"isRemote": "",
+		"hasInsurance": "",
+		"paymentMethod": "",
+		"workHours": "",
+		"seniorityLevel": "",
+		"benefits": "",
+		"requiredKnowledge": "",
+		"businessTripsDescription": "",
+		"minAge": "",
+		"maxAge": "",
+		"softwareSkills": "",
+		"labels": [],
+		"userInfo": {
+			"isBookmarked": ""
+		},
+		"publishTime": {
+			"passedDays": "",
+			"beautifyFa": "",
+			"beautifyEn": "",
+			"date": ""
+		},
+		"expireTime": {
+			"date": "",
+			"daysLeftUntil": ""
+		},
+		"isExpired": "",
+		"jobBoard": {
+			"organizationColor": "",
+			"id": "",
+			"titleFa": "",
+			"titleEn": ""
+		},
+		"contactInfo": "",
+		"jobPostCategories": "",
+		"companyDetailsSummary": {
+			"id": "",
+			"name": {
+				"titleFa": "",
+				"titleEn": ""
+			},
+			"about": {
+				"titleFa": "",
+				"titleEn": ""
+			},
+			"logo": "",
+			"url": "",
+			"jobPosts": "",
+			"jobPostCount": ""
+		}
+	},
+	"isSuccess": "",
+	"statusCode": "",
+	"message": ""
+}
 
 
 
 redis_client = redis.Redis(host='localhost', port=6379, password='kardon!!213',  db=0)
 logging.basicConfig(filename='app.log', level=logging.ERROR,format='%(asctime)s - %(levelname)s - %(message)s')
 
+def fill_missing_values(json_obj, example_obj):
+    for key in example_obj:
+        if key not in json_obj:
+            json_obj[key] = example_obj[key]
+        elif isinstance(example_obj[key], dict) and isinstance(json_obj[key], dict):
+            fill_missing_values(json_obj[key], example_obj[key])
 
 def importData2DB(id):
     url = "https://api.karbord.io/api/v1/Candidate/JobPost/GetDetail"
     querystring = {"jobPostId":id}
     payload = ""
     response = requests.request("GET", url, data=payload, params=querystring)
-    res = response.json()
+
+    res = fill_missing_values(response.json(), example_json)
+
+     
 
 
 
@@ -152,9 +290,8 @@ def importData2DB(id):
 jobPostIds = redis_client.keys('*')
 jobPostIds_not_added = [key.decode('utf-8') for key in jobPostIds if redis_client.get(key) == b'0']
 for jobid in jobPostIds_not_added:
-    try:
-        importData2DB(jobid)
-        print(str(jobid)+" added")
-    except:
-        pass
+
+    importData2DB(jobid)
+    print(str(jobid)+" added")
+
     redis_client.set(jobid, 1)
