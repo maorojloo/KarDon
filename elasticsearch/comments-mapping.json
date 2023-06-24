@@ -1,0 +1,53 @@
+{
+	"comments": {
+		"mappings": {
+			"properties": {
+				"Id": {
+					"type": "keyword"
+				},
+				"company_name": {
+					"type": "text",
+					"analyzer": "persian_grams_index_analyzer",
+					"search_analyzer": "persian_grams_search_analyzer"
+				},
+				"cons": {
+					"type": "text",
+					"analyzer": "persian_grams_index_analyzer",
+					"search_analyzer": "persian_grams_search_analyzer"
+				},
+				"description": {
+					"type": "text",
+					"analyzer": "persian_grams_index_analyzer",
+					"search_analyzer": "persian_grams_search_analyzer"
+				},
+				"job_name": {
+					"type": "text",
+					"analyzer": "persian_grams_index_analyzer",
+					"search_analyzer": "persian_grams_search_analyzer"
+				},
+				"job_state": {
+					"type": "text",
+					"analyzer": "persian_grams_index_analyzer",
+					"search_analyzer": "persian_grams_search_analyzer"
+				},
+				"pros": {
+					"type": "text",
+					"analyzer": "persian_grams_index_analyzer",
+					"search_analyzer": "persian_grams_search_analyzer"
+				},
+				"rate": {
+					"type": "byte"
+				},
+				"timestamp_created": {
+					"type": "date"
+				},
+				"timestamp_updated": {
+					"type": "date"
+				},
+				"url": {
+					"type": "keyword"
+				}
+			}
+		}
+	}
+}
