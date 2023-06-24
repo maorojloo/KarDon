@@ -1,0 +1,265 @@
+{
+  "kardon": {
+    "mappings": {
+      "properties": {
+        "Id": {
+          "type": "long"
+        },
+        "academic_requirements": {
+          "properties": {
+            "Id": {
+              "type": "integer"
+            },
+            "levelTitle": {
+              "type": "text",
+              "analyzer": "persian_grams_index_analyzer",
+              "search_analyzer": "persian_grams_search_analyzer"
+            },
+            "titleEn": {
+              "type": "text"
+            },
+            "titleFa": {
+              "type": "text",
+              "analyzer": "persian_grams_index_analyzer",
+              "search_analyzer": "persian_grams_search_analyzer"
+            }
+          }
+        },
+        "activation_time": {
+          "type": "date"
+        },
+        "benefits": {
+          "type": "text"
+        },
+        "company_info": {
+          "properties": {
+            "about": {
+              "properties": {
+                "titleEn": {
+                  "type": "text"
+                },
+                "titleFa": {
+                  "type": "text",
+                  "analyzer": "persian_grams_index_analyzer",
+                  "search_analyzer": "persian_grams_search_analyzer"
+                }
+              }
+            },
+            "name_en": {
+              "type": "text"
+            },
+            "name_fa": {
+              "type": "text",
+              "analyzer": "persian_grams_index_analyzer",
+              "search_analyzer": "persian_grams_search_analyzer"
+            }
+          }
+        },
+        "contactInfo": {
+          "type": "text"
+        },
+        "created_at": {
+          "type": "date"
+        },
+        "created_timestamp": {
+          "type": "long"
+        },
+        "description": {
+          "type": "text"
+        },
+        "description_clean": {
+          "type": "text",
+          "analyzer": "persian_grams_index_analyzer",
+          "search_analyzer": "persian_grams_search_analyzer"
+        },
+        "expireTime": {
+          "type": "date"
+        },
+        "gender": {
+          "type": "text"
+        },
+        "hasInsurance": {
+          "type": "keyword"
+        },
+        "has_alternative_military": {
+          "type": "boolean"
+        },
+        "has_no_work_experience_requirement": {
+          "type": "boolean"
+        },
+        "is_internship": {
+          "type": "boolean"
+        },
+        "is_persian": {
+          "type": "boolean"
+        },
+        "is_remote": {
+          "type": "boolean"
+        },
+        "jobPostCategories": {
+          "type": "text"
+        },
+        "job_board": {
+          "properties": {
+            "Id": {
+              "type": "integer"
+            },
+            "titleEn": {
+              "type": "text"
+            },
+            "titleFa": {
+              "type": "text",
+              "analyzer": "persian_grams_index_analyzer",
+              "search_analyzer": "persian_grams_search_analyzer"
+            }
+          }
+        },
+        "labels": {
+          "type": "text"
+        },
+        "location": {
+          "properties": {
+            "city": {
+              "properties": {
+                "Id": {
+                  "type": "short"
+                },
+                "titleEn": {
+                  "type": "text"
+                },
+                "titleFa": {
+                  "type": "text",
+                  "analyzer": "persian_grams_index_analyzer",
+                  "search_analyzer": "persian_grams_search_analyzer"
+                }
+              }
+            },
+            "country": {
+              "properties": {
+                "Id": {
+                  "type": "short"
+                },
+                "titleEn": {
+                  "type": "text"
+                },
+                "titleFa": {
+                  "type": "text",
+                  "analyzer": "persian_grams_index_analyzer",
+                  "search_analyzer": "persian_grams_search_analyzer"
+                }
+              }
+            },
+            "province": {
+              "properties": {
+                "Id": {
+                  "type": "short"
+                },
+                "titleEn": {
+                  "type": "text"
+                },
+                "titleFa": {
+                  "type": "text",
+                  "analyzer": "persian_grams_index_analyzer",
+                  "search_analyzer": "persian_grams_search_analyzer"
+                }
+              }
+            }
+          }
+        },
+        "maxAge": {
+          "type": "byte"
+        },
+        "military_service_state": {
+          "type": "text",
+          "analyzer": "persian_grams_index_analyzer",
+          "search_analyzer": "persian_grams_search_analyzer"
+        },
+        "minAge": {
+          "type": "byte"
+        },
+        "paymentMethod": {
+          "type": "keyword"
+        },
+        "requiredEducations": {
+          "properties": {
+            "Id": {
+              "type": "long"
+            },
+            "titleEn": {
+              "type": "text"
+            },
+            "titleFa": {
+              "type": "text",
+              "analyzer": "persian_grams_index_analyzer",
+              "search_analyzer": "persian_grams_search_analyzer"
+            }
+          }
+        },
+        "requiredKnowledge": {
+          "type": "text"
+        },
+        "requiredLanguageSkills": {
+          "type": "text"
+        },
+        "required_work_experience": {
+          "type": "text"
+        },
+        "salary": {
+          "type": "text",
+          "analyzer": "persian_grams_index_analyzer",
+          "search_analyzer": "persian_grams_search_analyzer"
+        },
+        "seniorityLevel": {
+          "type": "text"
+        },
+        "skills": {
+          "type": "text"
+        },
+        "softwareSkills": {
+          "type": "text"
+        },
+        "sourceId": {
+          "type": "keyword"
+        },
+        "tags": {
+          "type": "text"
+        },
+        "title": {
+          "type": "text",
+          "analyzer": "persian_grams_index_analyzer",
+          "search_analyzer": "persian_grams_search_analyzer"
+        },
+        "url": {
+          "type": "keyword"
+        },
+        "workHours": {
+          "type": "keyword"
+        },
+        "workTypes": {
+          "properties": {
+            "Id": {
+              "type": "long"
+            },
+            "titleEn": {
+              "type": "text",
+              "fields": {
+                "keyword": {
+                  "type": "keyword",
+                  "ignore_above": 256
+                }
+              }
+            },
+            "titleFa": {
+              "type": "text",
+              "fields": {
+                "keyword": {
+                  "type": "keyword",
+                  "ignore_above": 256
+                }
+              }
+            }
+          }
+        }
+    }
+  }
+}
