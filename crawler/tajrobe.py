@@ -58,9 +58,6 @@ for company in companys_list:
          date=yaml_data['date']
          if not redis_client.get(id):
             #inserting to elastic
-
-
-
             #flag reviwe in redis
             redis_client.set(id, 1)
 
