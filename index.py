@@ -159,13 +159,21 @@ def replace_none_with_empty(json_obj):
     else:
         return json_obj
 
-def remove_nested_none_dicts(d):
+def delete_none_values(d,val):
     for k, v in list(d.items()):
         if isinstance(v, dict):
-            remove_nested_none_dicts(v)
-        if not v:
+            delete_none_values(v,val)
+        elif v is val:
             del d[k]
     return d
+
+
+def del_none(data,val):
+    
+    data = delete_none_values(data,val)
+    for p in data['data']['jobPostCategories']:
+        p=delete_none_values(p,val)
+    return data
 
 
 def importData2DB(id):
@@ -178,8 +186,8 @@ def importData2DB(id):
     print("$$$$$$$$$$$$$$$$$$$$")
 
     orginaljson=response.json()
-    print(orginaljson)
-    #orginaljson_removedNone=remove_nested_none_dicts(orginaljson)
+    # print(orginaljson)
+    orginaljson_removedNone=del_none(orginaljson,None)
     res=example_json.update(orginaljson_removedNone)
     print(res)
 
