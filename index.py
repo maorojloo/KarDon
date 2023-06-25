@@ -159,6 +159,15 @@ def replace_none_with_empty(json_obj):
     else:
         return json_obj
 
+def remove_nested_none_dicts(d):
+    for k, v in list(d.items()):
+        if isinstance(v, dict):
+            remove_nested_none_dicts(v)
+        if not v:
+            del d[k]
+    return d
+
+
 def importData2DB(id):
     url = "https://api.karbord.io/api/v1/Candidate/JobPost/GetDetail"
     querystring = {"jobPostId":id}
@@ -169,8 +178,10 @@ def importData2DB(id):
     print("$$$$$$$$$$$$$$$$$$$$")
 
     orginaljson=response.json()
-    fill_missing_values(orginaljson, example_json)
-    res= replace_none_with_empty(orginaljson)
+    orginaljson_removedNone=remove_nested_none_dicts(orginaljson)
+    res=sample.update(orginaljson_removedNone)
+
+
 
 
 
