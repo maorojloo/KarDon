@@ -179,7 +179,7 @@ def importData2DB(id):
 
     orginaljson=response.json()
     orginaljson_removedNone=remove_nested_none_dicts(orginaljson)
-    res=sample.update(orginaljson_removedNone)
+    res=example_json.update(orginaljson_removedNone)
 
 
 
