@@ -119,7 +119,7 @@ example_json = {
 		"contactInfo":"nowgwgwgwgne",
 		# "jobPostCategories":"none",
 		"companyDetailsSummary": {
-			"id":"nonsdfswgfsre",
+			"id":0,
 			"name": {
 				"titleFa":"nosrgfwrrene",
 				"titleEn": ""
