@@ -62,13 +62,13 @@ class Location(InnerDoc):
 
 
 class WorkTypes(InnerDoc):
-    Id = Short()
+    Id = Integer()
     titleFa = Text(analyzer=PERSIAN_ANALYZER, search_analyzer=PERSIAN_SEARCH_ANALYZER)
     titleEn = Text()
 
 class JobBoard(InnerDoc):
     organizationColor = Keyword()
-    Id = Short()
+    Id = Integer()
     titleFa = Text(analyzer=PERSIAN_ANALYZER, search_analyzer=PERSIAN_SEARCH_ANALYZER)
     titleEn = Text()
 
@@ -80,7 +80,7 @@ class ActivationTime(InnerDoc):
     date = Date()
 
 class AcademicRequirements(InnerDoc):
-    Id = Short()
+    Id = Integer()
     levelTitle = Text(analyzer=PERSIAN_ANALYZER, search_analyzer=PERSIAN_SEARCH_ANALYZER)
     titleFa = Text(analyzer=PERSIAN_ANALYZER, search_analyzer=PERSIAN_SEARCH_ANALYZER)
     titleEn = Text()

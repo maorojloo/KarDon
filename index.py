@@ -53,7 +53,7 @@ example_json = {
 		],
 		"workTypes": [
 			{
-				"id": "",
+				"id": 0,
 				"titleFa": "",
 				"titleEn": ""
 			}
@@ -65,7 +65,7 @@ example_json = {
 		"academicRequirements": [
 			{
 				"levelTitle": "",
-				"id": "",
+				"id": 0,
 				"titleFa": "",
 				"titleEn": ""
 			}
@@ -112,7 +112,7 @@ example_json = {
 		"isExpired": "",
 		"jobBoard": {
 			"organizationColor": "",
-			"id": "",
+			"id": 0,
 			"titleFa": "",
 			"titleEn": ""
 		},
