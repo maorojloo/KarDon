@@ -186,7 +186,7 @@ def get_skills(skills):
         data+=" "+str(skill)
 def get_softwareSkills(softwareSkills):
     data=""
-    for skill in skills:
+    for skill in softwareSkills:
         data+=" "+str(skill["titleFa"])+" "+str(skill["titleEn"])
     return data
 
