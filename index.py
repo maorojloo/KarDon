@@ -117,7 +117,7 @@ example_json = {
 			"titleEn": ""
 		},
 		"contactInfo": "",
-		"jobPostCategories": "",
+		# "jobPostCategories": "",
 		"companyDetailsSummary": {
 			"id": "",
 			"name": {
@@ -144,36 +144,36 @@ example_json = {
 redis_client = redis.Redis(host='localhost', port=6379, password='kardon!!213',  db=0)
 logging.basicConfig(filename='app.log', level=logging.ERROR,format='%(asctime)s - %(levelname)s - %(message)s')
 
-def fill_missing_values(json_obj, example_obj):
-    for key in example_obj:
-        if key not in json_obj:
-            json_obj[key] = example_obj[key]
-        elif isinstance(example_obj[key], dict) and isinstance(json_obj[key], dict):
-            fill_missing_values(json_obj[key], example_obj[key])
 
-def replace_none_with_empty(json_obj):
-    if isinstance(json_obj, dict):
-        return {k: replace_none_with_empty(v) if v is not None else "" for k, v in json_obj.items()}
-    elif isinstance(json_obj, list):
-        return [replace_none_with_empty(elem) if elem is not None else "" for elem in json_obj]
-    else:
-        return json_obj
 
-def delete_none_values(d,val):
+def delete_none_values(d):
     for k, v in list(d.items()):
         if isinstance(v, dict):
-            delete_none_values(v,val)
-        elif v is val:
+            delete_none_values(v)
+        elif v is None:
             del d[k]
     return d
-
-
-def del_none(data,val):
-    
-    data = delete_none_values(data,val)
-    for p in data['data']['jobPostCategories']:
-        p=delete_none_values(p,val)
+def fullclean(d):
+    data=delete_none_values(d)
+    for p in data["data"]["jobPostCategories"]:
+        p=delete_none_values(p)
     return data
+
+def deepupdate(original, update):
+    """Recursively update a dict.
+
+    Subdict's won't be overwritten but also updated.
+    """
+    for key, value in original.items():
+        if key not in update:
+            update[key] = value
+        elif isinstance(value, dict):
+            deepupdate(value, update[key])
+    return update
+
+
+
+
 
 
 def importData2DB(id):
@@ -186,10 +186,12 @@ def importData2DB(id):
     print("$$$$$$$$$$$$$$$$$$$$")
 
     orginaljson=response.json()
-    # print(orginaljson)
-    orginaljson_removedNone=del_none(orginaljson,None)
-    res=example_json.update(orginaljson_removedNone)
-    print(res)
+    cleand=fullclean(orginaljson)
+    res=deepupdate(example_json , cleand)
+
+
+
+
 
 
 
