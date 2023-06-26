@@ -14,39 +14,39 @@ import json
 example_json = {
 	"data": {
 		"id":"none1",
-		"sourceId":"none",
-		"title":"none",
-		"url":"none",
-		"description":"none",
-		"isPersian":"none",
+		"sourceId":"none2",
+		"title":"none3",
+		"url":"none4",
+		"description":"none5",
+		"isPersian":"none6",
 		"company": {
 			"name": {
-				"titleFa":"none",
+				"titleFa":"none32234",
 				"titleEn": ""
 			},
 			"description": {
-				"titleFa":"none",
+				"titleFa":"none34343",
 				"titleEn": ""
 			},
-			"hasPicture":"none",
-			"logo":"none",
+			"hasPicture":"none3434343",
+			"logo":"nonevdsf43t3",
 			"url": ""
 		},
 		"locations": [
 			{
 				"province": {
 					"id": 0,
-					"titleFa":"none",
+					"titleFa":"none434g3edfb",
 					"titleEn": ""
 				},
 				"city": {
 					"id": 0,
-					"titleFa":"none",
+					"titleFa":"none343gefbv",
 					"titleEn": ""
 				},
 				"country": {
 					"id": 0,
-					"titleFa":"none",
+					"titleFa":"none34gefvbd",
 					"titleEn": ""
 				}
 			}
@@ -58,10 +58,10 @@ example_json = {
 				"titleEn": ""
 			}
 		],
-		"salary":"none",
-		"normalizeSalaryMin":"none",
-		"normalizeSalaryMax":"none",
-		"gender":"none",
+		"salary":"noneergeg3",
+		"normalizeSalaryMin":"nonege3gege",
+		"normalizeSalaryMax":"noneergegerg",
+		"gender":"none4343grg",
 		"academicRequirements": [
 			{
 				"levelTitle":"none",
@@ -70,10 +70,10 @@ example_json = {
 				"titleEn": ""
 			}
 		],
-		"requiredLanguageSkills":"none",
-		"skills":"none",
-		"requiredWorkExperience":"none",
-		"hasNoWorkExperienceRequirement":"none",
+		"requiredLanguageSkills":"none3g3g3",
+		"skills":"none3g34",
+		"requiredWorkExperience":"nonewf23",
+		"hasNoWorkExperienceRequirement":"nonerv334",
 		"requiredEducations": [
 			{
 				"id":"none",
@@ -81,61 +81,61 @@ example_json = {
 				"titleEn": ""
 			}
 		],
-		"militaryServiceState":"none",
-		"isInternship":"none",
-		"hasAlternativeMilitary":"none",
-		"isRemote":"none",
-		"hasInsurance":"none",
-		"paymentMethod":"none",
-		"workHours":"none",
-		"seniorityLevel":"none",
-		"benefits":"none",
-		"requiredKnowledge":"none",
-		"businessTripsDescription":"none",
-		"minAge":"none",
-		"maxAge":"none",
-		"softwareSkills":"none",
+		"militaryServiceState":"none4gf34g",
+		"isInternship":"noneg433g",
+		"hasAlternativeMilitary":"none3g3434",
+		"isRemote":"none343gvg",
+		"hasInsurance":"none3g5gg",
+		"paymentMethod":"none344ggfewef",
+		"workHours":"none2343434grdfd",
+		"seniorityLevel":"none3434grefge",
+		"benefits":"nonefvdgev343",
+		"requiredKnowledge":"nonerer444",
+		"businessTripsDescription":"none23232rgr",
+		"minAge":"noneegrbtrb43",
+		"maxAge":"noneegbfdf34",
+		"softwareSkills":"none4g33hbetb",
 		"labels": [],
 		"userInfo": {
 			"isBookmarked": ""
 		},
 		"publishTime": {
-			"passedDays":"none",
-			"beautifyFa":"none",
-			"beautifyEn":"none",
+			"passedDays":"none32vssf",
+			"beautifyFa":"none4r4gf",
+			"beautifyEn":"nonlkhgoe",
 			"date": ""
 		},
 		"expireTime": {
 			"date":"none",
 			"daysLeftUntil": ""
 		},
-		"isExpired":"none",
+		"isExpired":"nowgwgwgwne",
 		"jobBoard": {
 			"organizationColor":"none",
 			"id": 0,
 			"titleFa":"none",
 			"titleEn": ""
 		},
-		"contactInfo":"none",
+		"contactInfo":"nowgwgwgwgne",
 		# "jobPostCategories":"none",
 		"companyDetailsSummary": {
-			"id":"none",
+			"id":"nonsdfswgfsre",
 			"name": {
-				"titleFa":"none",
+				"titleFa":"nosrgfwrrene",
 				"titleEn": ""
 			},
 			"about": {
-				"titleFa":"none",
+				"titleFa":"norgsgsne",
 				"titleEn": ""
 			},
-			"logo":"none",
-			"url":"none",
-			"jobPosts":"none",
+			"logo":"nosfsfne",
+			"url":"nondgdfe",
+			"jobPosts":"nodffgne",
 			"jobPostCount": ""
 		}
 	},
-	"isSuccess":"none",
-	"statusCode":"none",
+	"isSuccess":"noergeerne",
+	"statusCode":"noer434ne",
 	"message": ""
 }
 
