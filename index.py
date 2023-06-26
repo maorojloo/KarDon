@@ -345,8 +345,11 @@ def importData2DB(id):
 jobPostIds = redis_client.keys('*')
 jobPostIds_not_added = [key.decode('utf-8') for key in jobPostIds if redis_client.get(key) == b'0']
 for jobid in jobPostIds_not_added:
+    try:
 
-    importData2DB(jobid)
-    print(str(jobid)+" added")
+        importData2DB(jobid)    
+        print(str(jobid)+" added")
 
-    redis_client.set(jobid, 1)
+        redis_client.set(jobid, 1)  
+    except:
+        pass
