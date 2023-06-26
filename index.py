@@ -71,7 +71,7 @@ example_json = {
 			}
 		],
 		"requiredLanguageSkills":"none3g3g3",
-		"skills":"none3g34",
+		"skills":[" "],
 		"requiredWorkExperience":"nonewf23",
 		"hasNoWorkExperienceRequirement":"nonerv334",
 		"requiredEducations": [
