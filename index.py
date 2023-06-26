@@ -70,7 +70,7 @@ example_json = {
 				"titleEn": ""
 			}
 		],
-		"requiredLanguageSkills":"none3g3g3",
+		"requiredLanguageSkills":[{"titleFa":""}],
 		"skills":[" "],
 		"requiredWorkExperience":"nonewf23",
 		"hasNoWorkExperienceRequirement":"nonerv334",
