@@ -155,8 +155,11 @@ def delete_none_values(d):
     return d
 def fullclean(d):
     data=delete_none_values(d)
-    for p in data["data"]["jobPostCategories"]:
-        p=delete_none_values(p)
+    try:
+        for p in data["data"]["jobPostCategories"]:
+            p=delete_none_values(p)
+    except:
+        pass
     return data
 
 def deepupdate(original, update):
