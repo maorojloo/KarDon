@@ -54,7 +54,7 @@ example_json = {
 		"workTypes": [
 			{
 				"id": 0,
-				"titleFa":"none",
+				"titleFa":"nowefwfwefne",
 				"titleEn": ""
 			}
 		],
@@ -64,9 +64,9 @@ example_json = {
 		"gender":"none4343grg",
 		"academicRequirements": [
 			{
-				"levelTitle":"none",
+				"levelTitle":"nowefwefwfwne",
 				"id": 0,
-				"titleFa":"none",
+				"titleFa":"nowefwfwefwne",
 				"titleEn": ""
 			}
 		],
@@ -76,8 +76,8 @@ example_json = {
 		"hasNoWorkExperienceRequirement":"nonerv334",
 		"requiredEducations": [
 			{
-				"id":"none",
-				"titleFa":"none",
+				"id":"nowefwefwefne",
+				"titleFa":"nwefwfwfwfone",
 				"titleEn": ""
 			}
 		],
@@ -106,14 +106,14 @@ example_json = {
 			"date": ""
 		},
 		"expireTime": {
-			"date":"none",
+			"date":"non23r2fewfwfe",
 			"daysLeftUntil": ""
 		},
 		"isExpired":"nowgwgwgwne",
 		"jobBoard": {
-			"organizationColor":"none",
+			"organizationColor":"ndsfsfsfsf3one",
 			"id": 0,
-			"titleFa":"none",
+			"titleFa":"none3434gfgsfg",
 			"titleEn": ""
 		},
 		"contactInfo":"nowgwgwgwgne",
