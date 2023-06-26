@@ -59,8 +59,8 @@ example_json = {
 			}
 		],
 		"salary":"noneergeg3",
-		"normalizeSalaryMin":"nonege3gege",
-		"normalizeSalaryMax":"noneergegerg",
+		"normalizeSalaryMin":0,
+		"normalizeSalaryMax":0,
 		"gender":"none4343grg",
 		"academicRequirements": [
 			{
