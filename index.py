@@ -94,7 +94,7 @@ example_json = {
 		"businessTripsDescription":"none23232rgr",
 		"minAge":"noneegrbtrb43",
 		"maxAge":"noneegbfdf34",
-		"softwareSkills":"none4g33hbetb",
+		"softwareSkills":[{"titleEn":"","titleFa":""}],
 		"labels": [],
 		"userInfo": {
 			"isBookmarked": ""
@@ -184,6 +184,11 @@ def get_skills(skills):
     data=""
     for skill in skills:
         data+=" "+str(skill)
+def get_softwareSkills(softwareSkills):
+    data=""
+    for skill in skills:
+        data+=" "+str(skill["titleFa"])+" "+str(skill["titleEn"])
+
 
 
 
