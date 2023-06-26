@@ -35,17 +35,17 @@ example_json = {
 		"locations": [
 			{
 				"province": {
-					"id": "",
+					"id": 0,
 					"titleFa": "",
 					"titleEn": ""
 				},
 				"city": {
-					"id": "",
+					"id": 0,
 					"titleFa": "",
 					"titleEn": ""
 				},
 				"country": {
-					"id": "",
+					"id": 0,
 					"titleFa": "",
 					"titleEn": ""
 				}
