@@ -13,40 +13,40 @@ import json
 
 example_json = {
 	"data": {
-		"id":"none1",
-		"sourceId":"none2",
-		"title":"none3",
-		"url":"none4",
-		"description":"none5",
-		"isPersian":"none6",
+		"id":"",
+		"sourceId":"",
+		"title":"",
+		"url":"",
+		"description":"",
+		"isPersian":"",
 		"company": {
 			"name": {
-				"titleFa":"none32234",
+				"titleFa":"",
 				"titleEn": ""
 			},
 			"description": {
-				"titleFa":"none34343",
+				"titleFa":"",
 				"titleEn": ""
 			},
-			"hasPicture":"none3434343",
-			"logo":"nonevdsf43t3",
+			"hasPicture":"",
+			"logo":"",
 			"url": ""
 		},
 		"locations": [
 			{
 				"province": {
 					"id": 0,
-					"titleFa":"none434g3edfb",
+					"titleFa":"",
 					"titleEn": ""
 				},
 				"city": {
 					"id": 0,
-					"titleFa":"none343gefbv",
+					"titleFa":"",
 					"titleEn": ""
 				},
 				"country": {
 					"id": 0,
-					"titleFa":"none34gefvbd",
+					"titleFa":"",
 					"titleEn": ""
 				}
 			}
@@ -54,7 +54,7 @@ example_json = {
 		"workTypes": [
 			{
 				"id": 0,
-				"titleFa":"nowefwfwefne",
+				"titleFa":"",
 				"titleEn": ""
 			}
 		],
@@ -64,78 +64,78 @@ example_json = {
 		"gender":"none4343grg",
 		"academicRequirements": [
 			{
-				"levelTitle":"nowefwefwfwne",
+				"levelTitle":"",
 				"id": 0,
-				"titleFa":"nowefwfwefwne",
+				"titleFa":"",
 				"titleEn": ""
 			}
 		],
 		"requiredLanguageSkills":[{"titleFa":""}],
 		"skills":[" "],
-		"requiredWorkExperience":"nonewf23",
-		"hasNoWorkExperienceRequirement":"nonerv334",
+		"requiredWorkExperience":"",
+		"hasNoWorkExperienceRequirement":"",
 		"requiredEducations": [
 			{
 				"id":0,
-				"titleFa":"nwefwfwfwfone",
+				"titleFa":"",
 				"titleEn": ""
 			}
 		],
-		"militaryServiceState":"none4gf34g",
-		"isInternship":"noneg433g",
-		"hasAlternativeMilitary":"none3g3434",
-		"isRemote":"none343gvg",
-		"hasInsurance":"none3g5gg",
-		"paymentMethod":"none344ggfewef",
-		"workHours":"none2343434grdfd",
-		"seniorityLevel":"none3434grefge",
-		"benefits":[{"titleFa":"asasas"}],
-		"requiredKnowledge":"nonerer444",
-		"businessTripsDescription":"none23232rgr",
-		"minAge":"noneegrbtrb43",
-		"maxAge":"noneegbfdf34",
+		"militaryServiceState":"",
+		"isInternship":"",
+		"hasAlternativeMilitary":"",
+		"isRemote":"",
+		"hasInsurance":"",
+		"paymentMethod":"",
+		"workHours":"",
+		"seniorityLevel":"",
+		"benefits":[{"titleFa":""}],
+		"requiredKnowledge":"",
+		"businessTripsDescription":"",
+		"minAge":0,
+		"maxAge":0,
 		"softwareSkills":[{"titleEn":"","titleFa":""}],
 		"labels": [],
 		"userInfo": {
 			"isBookmarked": ""
 		},
 		"publishTime": {
-			"passedDays":"none32vssf",
-			"beautifyFa":"none4r4gf",
-			"beautifyEn":"nonlkhgoe",
+			"passedDays":"",
+			"beautifyFa":"",
+			"beautifyEn":"",
 			"date": ""
 		},
 		"expireTime": {
-			"date":"non23r2fewfwfe",
+			"date":"",
 			"daysLeftUntil": ""
 		},
-		"isExpired":"nowgwgwgwne",
+		"isExpired":"",
 		"jobBoard": {
-			"organizationColor":"ndsfsfsfsf3one",
+			"organizationColor":"",
 			"id": 0,
-			"titleFa":"none3434gfgsfg",
+			"titleFa":"",
 			"titleEn": ""
 		},
-		"contactInfo":"nowgwgwgwgne",
+		"contactInfo":"",
 		# "jobPostCategories":"none",
 		"companyDetailsSummary": {
 			"id":0,
 			"name": {
-				"titleFa":"nosrgfwrrene",
+				"titleFa":"",
 				"titleEn": ""
 			},
 			"about": {
-				"titleFa":"norgsgsne",
+				"titleFa":"",
 				"titleEn": ""
 			},
-			"logo":"nosfsfne",
-			"url":"nondgdfe",
-			"jobPosts":"nodffgne",
+			"logo":"",
+			"url":"",
+			"jobPosts":"",
 			"jobPostCount": ""
 		}
 	},
-	"isSuccess":"noergeerne",
-	"statusCode":"noer434ne",
+	"isSuccess":"",
+	"statusCode":"",
 	"message": ""
 }
 
