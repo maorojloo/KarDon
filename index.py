@@ -175,6 +175,15 @@ def deepupdate(original, update):
     return update
 
 
+def get_requiredLanguageSkills(requiredLanguageSkills):
+    data=''
+    for requiredLanguageSkill in requiredLanguageSkills:
+        data+=" "+str(requiredLanguageSkill["requiredLanguageSkill"])
+    return data
+def get_skills(skills):
+    data=""
+    for skill in skills:
+        data+=" "+str(skill)
 
 
 
@@ -273,9 +282,9 @@ def importData2DB(id):
                 titleFa = res['data']['academicRequirements'][0]['titleFa'],
                 titleEn = res['data']['academicRequirements'][0]['titleEn'],
             ),
-        requiredLanguageSkills = res['data']['requiredLanguageSkills'],
+        requiredLanguageSkills = get_requiredLanguageSkills(res['data']['requiredLanguageSkills']),
         required_work_experience = res['data']['requiredWorkExperience'],
-        skills = res['data']['skills'],
+        skills = get_skills(res['data']['skills']),
         requiredEducations = RequiredEducations(
             Id = res['data']['requiredEducations'][0]["id"],
             titleFa = res['data']['requiredEducations'][0]["titleFa"],
