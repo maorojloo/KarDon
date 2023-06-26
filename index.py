@@ -13,40 +13,40 @@ import json
 
 example_json = {
 	"data": {
-		"id":" ",
-		"sourceId":" ",
-		"title":" ",
-		"url":" ",
-		"description":" ",
-		"isPersian":" ",
+		"id":"none",
+		"sourceId":"none",
+		"title":"none",
+		"url":"none",
+		"description":"none",
+		"isPersian":"none",
 		"company": {
 			"name": {
-				"titleFa":" ",
+				"titleFa":"none",
 				"titleEn": ""
 			},
 			"description": {
-				"titleFa":" ",
+				"titleFa":"none",
 				"titleEn": ""
 			},
-			"hasPicture":" ",
-			"logo":" ",
+			"hasPicture":"none",
+			"logo":"none",
 			"url": ""
 		},
 		"locations": [
 			{
 				"province": {
 					"id": 0,
-					"titleFa":" ",
+					"titleFa":"none",
 					"titleEn": ""
 				},
 				"city": {
 					"id": 0,
-					"titleFa":" ",
+					"titleFa":"none",
 					"titleEn": ""
 				},
 				"country": {
 					"id": 0,
-					"titleFa":" ",
+					"titleFa":"none",
 					"titleEn": ""
 				}
 			}
@@ -54,88 +54,88 @@ example_json = {
 		"workTypes": [
 			{
 				"id": 0,
-				"titleFa":" ",
+				"titleFa":"none",
 				"titleEn": ""
 			}
 		],
-		"salary":" ",
-		"normalizeSalaryMin":" ",
-		"normalizeSalaryMax":" ",
-		"gender":" ",
+		"salary":"none",
+		"normalizeSalaryMin":"none",
+		"normalizeSalaryMax":"none",
+		"gender":"none",
 		"academicRequirements": [
 			{
-				"levelTitle":" ",
+				"levelTitle":"none",
 				"id": 0,
-				"titleFa":" ",
+				"titleFa":"none",
 				"titleEn": ""
 			}
 		],
-		"requiredLanguageSkills":" ",
-		"skills":" ",
-		"requiredWorkExperience":" ",
-		"hasNoWorkExperienceRequirement":" ",
+		"requiredLanguageSkills":"none",
+		"skills":"none",
+		"requiredWorkExperience":"none",
+		"hasNoWorkExperienceRequirement":"none",
 		"requiredEducations": [
 			{
-				"id":" ",
-				"titleFa":" ",
+				"id":"none",
+				"titleFa":"none",
 				"titleEn": ""
 			}
 		],
-		"militaryServiceState":" ",
-		"isInternship":" ",
-		"hasAlternativeMilitary":" ",
-		"isRemote":" ",
-		"hasInsurance":" ",
-		"paymentMethod":" ",
-		"workHours":" ",
-		"seniorityLevel":" ",
-		"benefits":" ",
-		"requiredKnowledge":" ",
-		"businessTripsDescription":" ",
-		"minAge":" ",
-		"maxAge":" ",
-		"softwareSkills":" ",
+		"militaryServiceState":"none",
+		"isInternship":"none",
+		"hasAlternativeMilitary":"none",
+		"isRemote":"none",
+		"hasInsurance":"none",
+		"paymentMethod":"none",
+		"workHours":"none",
+		"seniorityLevel":"none",
+		"benefits":"none",
+		"requiredKnowledge":"none",
+		"businessTripsDescription":"none",
+		"minAge":"none",
+		"maxAge":"none",
+		"softwareSkills":"none",
 		"labels": [],
 		"userInfo": {
 			"isBookmarked": ""
 		},
 		"publishTime": {
-			"passedDays":" ",
-			"beautifyFa":" ",
-			"beautifyEn":" ",
+			"passedDays":"none",
+			"beautifyFa":"none",
+			"beautifyEn":"none",
 			"date": ""
 		},
 		"expireTime": {
-			"date":" ",
+			"date":"none",
 			"daysLeftUntil": ""
 		},
-		"isExpired":" ",
+		"isExpired":"none",
 		"jobBoard": {
-			"organizationColor":" ",
+			"organizationColor":"none",
 			"id": 0,
-			"titleFa":" ",
+			"titleFa":"none",
 			"titleEn": ""
 		},
-		"contactInfo":" ",
-		# "jobPostCategories":" ",
+		"contactInfo":"none",
+		# "jobPostCategories":"none",
 		"companyDetailsSummary": {
-			"id":" ",
+			"id":"none",
 			"name": {
-				"titleFa":" ",
+				"titleFa":"none",
 				"titleEn": ""
 			},
 			"about": {
-				"titleFa":" ",
+				"titleFa":"none",
 				"titleEn": ""
 			},
-			"logo":" ",
-			"url":" ",
-			"jobPosts":" ",
+			"logo":"none",
+			"url":"none",
+			"jobPosts":"none",
 			"jobPostCount": ""
 		}
 	},
-	"isSuccess":" ",
-	"statusCode":" ",
+	"isSuccess":"none",
+	"statusCode":"none",
 	"message": ""
 }
 
