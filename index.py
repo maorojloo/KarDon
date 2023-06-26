@@ -178,7 +178,7 @@ def deepupdate(original, update):
 def get_requiredLanguageSkills(requiredLanguageSkills):
     data=''
     for requiredLanguageSkill in requiredLanguageSkills:
-        data+=" "+str(requiredLanguageSkill["requiredLanguageSkill"])
+        data+=" "+str(requiredLanguageSkill["titleFa"])
     return data
 def get_skills(skills):
     data=""
