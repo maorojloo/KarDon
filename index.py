@@ -76,7 +76,7 @@ example_json = {
 		"hasNoWorkExperienceRequirement":"nonerv334",
 		"requiredEducations": [
 			{
-				"id":"nowefwefwefne",
+				"id":0,
 				"titleFa":"nwefwfwfwfone",
 				"titleEn": ""
 			}
