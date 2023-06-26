@@ -188,6 +188,7 @@ def get_softwareSkills(softwareSkills):
     data=""
     for skill in skills:
         data+=" "+str(skill["titleFa"])+" "+str(skill["titleEn"])
+    return data
 
 
 
@@ -314,7 +315,7 @@ def importData2DB(id):
         businessTripsDescription = res['data']['businessTripsDescription'],
         minAge = res['data']['minAge'] ,
         maxAge = res['data']['maxAge'],
-        softwareSkills = res['data']['softwareSkills'],
+        softwareSkills = get_softwareSkills(res['data']['softwareSkills']),
         labels = res['data']['labels'],
         expireTime = ExpireTime(
             date = res['data']['expireTime']['date'],
