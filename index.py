@@ -8,8 +8,8 @@ from multiprocessing import Pool
 import logging
 import time
 import json
-
-
+from hazm import *
+from bs4 import BeautifulSoup
 
 example_json = {
 	"data": {
@@ -161,7 +161,6 @@ def fullclean(d):
     except:
         pass
     return data
-
 def deepupdate(original, update):
     """Recursively update a dict.
 
@@ -173,8 +172,6 @@ def deepupdate(original, update):
         elif isinstance(value, dict):
             deepupdate(value, update[key])
     return update
-
-
 def get_requiredLanguageSkills(requiredLanguageSkills):
     data=''
     for requiredLanguageSkill in requiredLanguageSkills:
@@ -189,6 +186,13 @@ def get_softwareSkills(softwareSkills):
     for skill in softwareSkills:
         data+=" "+str(skill["titleFa"])+" "+str(skill["titleEn"])
     return data
+def normalize_html(html_string):
+    soup = BeautifulSoup(html_string, 'html.parser')
+    text_withouthtml = soup.get_text()
+    normalizer = Normalizer()
+    normalized=normalizer.normalize(text_withouthtml)
+    return normalized
+
 
 
 
@@ -237,7 +241,7 @@ def importData2DB(id):
         # This has html tags in it needs to be cleaned :)
         description= res['data']['description'],
         # Make sure description_clean is persian
-        description_clean = res['data']['description'],
+        description_clean = normalize_html(res['data']['description']),
         company_info = CompanyInfo(
             name_fa = res['data']['company']['name']['titleFa'],
             name_en = res['data']['company']['name']['titleEn'],
