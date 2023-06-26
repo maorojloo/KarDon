@@ -13,40 +13,40 @@ import json
 
 example_json = {
 	"data": {
-		"id": "",
-		"sourceId": "",
-		"title": "",
-		"url": "",
-		"description": "",
-		"isPersian": "",
+		"id":" ",
+		"sourceId":" ",
+		"title":" ",
+		"url":" ",
+		"description":" ",
+		"isPersian":" ",
 		"company": {
 			"name": {
-				"titleFa": "",
+				"titleFa":" ",
 				"titleEn": ""
 			},
 			"description": {
-				"titleFa": "",
+				"titleFa":" ",
 				"titleEn": ""
 			},
-			"hasPicture": "",
-			"logo": "",
+			"hasPicture":" ",
+			"logo":" ",
 			"url": ""
 		},
 		"locations": [
 			{
 				"province": {
 					"id": 0,
-					"titleFa": "",
+					"titleFa":" ",
 					"titleEn": ""
 				},
 				"city": {
 					"id": 0,
-					"titleFa": "",
+					"titleFa":" ",
 					"titleEn": ""
 				},
 				"country": {
 					"id": 0,
-					"titleFa": "",
+					"titleFa":" ",
 					"titleEn": ""
 				}
 			}
@@ -54,88 +54,88 @@ example_json = {
 		"workTypes": [
 			{
 				"id": 0,
-				"titleFa": "",
+				"titleFa":" ",
 				"titleEn": ""
 			}
 		],
-		"salary": "",
-		"normalizeSalaryMin": "",
-		"normalizeSalaryMax": "",
-		"gender": "",
+		"salary":" ",
+		"normalizeSalaryMin":" ",
+		"normalizeSalaryMax":" ",
+		"gender":" ",
 		"academicRequirements": [
 			{
-				"levelTitle": "",
+				"levelTitle":" ",
 				"id": 0,
-				"titleFa": "",
+				"titleFa":" ",
 				"titleEn": ""
 			}
 		],
-		"requiredLanguageSkills": "",
-		"skills": "",
-		"requiredWorkExperience": "",
-		"hasNoWorkExperienceRequirement": "",
+		"requiredLanguageSkills":" ",
+		"skills":" ",
+		"requiredWorkExperience":" ",
+		"hasNoWorkExperienceRequirement":" ",
 		"requiredEducations": [
 			{
-				"id": "",
-				"titleFa": "",
+				"id":" ",
+				"titleFa":" ",
 				"titleEn": ""
 			}
 		],
-		"militaryServiceState": "",
-		"isInternship": "",
-		"hasAlternativeMilitary": "",
-		"isRemote": "",
-		"hasInsurance": "",
-		"paymentMethod": "",
-		"workHours": "",
-		"seniorityLevel": "",
-		"benefits": "",
-		"requiredKnowledge": "",
-		"businessTripsDescription": "",
-		"minAge": "",
-		"maxAge": "",
-		"softwareSkills": "",
+		"militaryServiceState":" ",
+		"isInternship":" ",
+		"hasAlternativeMilitary":" ",
+		"isRemote":" ",
+		"hasInsurance":" ",
+		"paymentMethod":" ",
+		"workHours":" ",
+		"seniorityLevel":" ",
+		"benefits":" ",
+		"requiredKnowledge":" ",
+		"businessTripsDescription":" ",
+		"minAge":" ",
+		"maxAge":" ",
+		"softwareSkills":" ",
 		"labels": [],
 		"userInfo": {
 			"isBookmarked": ""
 		},
 		"publishTime": {
-			"passedDays": "",
-			"beautifyFa": "",
-			"beautifyEn": "",
+			"passedDays":" ",
+			"beautifyFa":" ",
+			"beautifyEn":" ",
 			"date": ""
 		},
 		"expireTime": {
-			"date": "",
+			"date":" ",
 			"daysLeftUntil": ""
 		},
-		"isExpired": "",
+		"isExpired":" ",
 		"jobBoard": {
-			"organizationColor": "",
+			"organizationColor":" ",
 			"id": 0,
-			"titleFa": "",
+			"titleFa":" ",
 			"titleEn": ""
 		},
-		"contactInfo": "",
-		# "jobPostCategories": "",
+		"contactInfo":" ",
+		# "jobPostCategories":" ",
 		"companyDetailsSummary": {
-			"id": "",
+			"id":" ",
 			"name": {
-				"titleFa": "",
+				"titleFa":" ",
 				"titleEn": ""
 			},
 			"about": {
-				"titleFa": "",
+				"titleFa":" ",
 				"titleEn": ""
 			},
-			"logo": "",
-			"url": "",
-			"jobPosts": "",
+			"logo":" ",
+			"url":" ",
+			"jobPosts":" ",
 			"jobPostCount": ""
 		}
 	},
-	"isSuccess": "",
-	"statusCode": "",
+	"isSuccess":" ",
+	"statusCode":" ",
 	"message": ""
 }
 
