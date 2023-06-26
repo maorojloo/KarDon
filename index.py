@@ -315,8 +315,8 @@ def importData2DB(id):
             date = res['data']['expireTime']['date'],
             # days_left_until = res['data']['expireTime']['daysLeftUntil']
         ),
-        is_expired =  res['data']['isExpired'],
-        contactInfo = res['data']['contactInfo'],
+        # is_expired =  res['data']['isExpired'],
+        # contactInfo = res['data']['contactInfo'],
         # This fields needs a lot more to look!
         #jobPostCategories = res['data']['jobPostCategories'],
         job_board = JobBoard(
