@@ -102,7 +102,8 @@ for company in companys_list:
             }
             docs.append(doc)
             if len(docs) == 100:
-               indexer_v2.kardon_generator(docs)
+               res= indexer_v2.kardon_generator(docs)
+               print(res)
                docs=[]
             #flag reviwe in redis
             redis_client.set(id, 1)

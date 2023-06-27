@@ -30,7 +30,7 @@ def kardon_generator(docmuents):
 #res = bulk(es, tajrobe_generator(documents), kardon_generator(documents))
 def bulker(documents):
     res= bulk(es, tajrobe_generator(documents))
-    print=res
+    return res
 # print the response from Elasticsearch
 # print(res)
 
