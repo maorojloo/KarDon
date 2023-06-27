@@ -15,7 +15,7 @@ es = Elasticsearch(['localhost:9200'])
 def tajrobe_generator(documents):
     for document in documents:
         yield {
-            "_index": index_name,
+            "_index": 'index_name',
             "_source": document
         }
 
