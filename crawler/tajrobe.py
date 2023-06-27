@@ -1,7 +1,7 @@
 import os
 from git import Repo
 import shutil
-form . import indexer_v2 
+from . import indexer_v2 
 
 repo_url = 'https://github.com/tajrobe/tajrobe.github.io.git'
 current_file_path = str(os.path.dirname(__file__)+'/tajrobe-repo')
