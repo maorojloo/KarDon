@@ -98,7 +98,7 @@ for company in companys_list:
                   "state" :state,
                   "description" :description, 
                   "cons" : cons,
-                  "date" : data
+                  "date" : date
             }
             docs.app(doc)
             if len(docs) == 100:
