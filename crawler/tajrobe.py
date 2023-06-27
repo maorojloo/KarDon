@@ -3,6 +3,7 @@ from git import Repo
 import shutil
 import indexer_v2  
 import redis
+import yaml
 
 repo_url = 'https://github.com/tajrobe/tajrobe.github.io.git'
 current_file_path = str(os.path.dirname(__file__)+'/tajrobe-repo')
@@ -36,7 +37,32 @@ def get_files_in_directory(directory):
             files.append(item)
     return files
 
+example_doc={                              
+         "_id" : 0,
+         "description" :"" ,
+         "rate" : 0,
+         "agent" :"",
+         "email" :"",
+         "job_name" :"",
+         "state" :"",
+         "description" :"", 
+         "cons" : "",
+         "date" : ""
+   }
+
 clone_repository(repo_url, current_file_path)
+def deepupdate(original, update):
+    """Recursively update a dict.
+
+    Subdict's won't be overwritten but also updated.
+    """
+    for key, value in original.items():
+        if key not in update:
+            update[key] = value
+        elif isinstance(value, dict):
+            deepupdate(value, update[key])
+    return update
+
 
 reviews_path=current_file_path+'/_data/review/'
 companys_list = get_folders_in_directory(reviews_path)
@@ -47,8 +73,10 @@ for company in companys_list:
 
    for fileName in files:
       filePath=company_review_path+"/"+fileName
-      with open(fileadd, 'r') as file:
+      with open(filePath, 'r') as file:
          yaml_data = yaml.load(file, Loader=yaml.FullLoader)
+         yaml_data=deepupdate(example_doc,yaml_data)
+
          id=yaml_data['_id']
          rate=yaml_data['rate']
          agent=yaml_data['agent']
