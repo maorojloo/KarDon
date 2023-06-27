@@ -10,7 +10,7 @@ current_file_path = str(os.path.dirname(__file__)+'/tajrobe-repo')
 
 # print(current_file_path)
 
-redis_client = redis.Redis(host='localhost', port=6379, password='kardon!!213',  db=1)
+redis_client = redis.Redis(host='localhost', port=6379, password='kardon!!213',  db=2)
 
 def clone_repository(repo_url, current_file_path):
    try:
@@ -102,11 +102,11 @@ for company in companys_list:
             }
             docs.append(doc)
             if len(docs) == 100:
-               res= indexer_v2.kardon_generator(docs)
+               res= indexer_v2.bulker(docs)
                print(res)
                docs=[]
             #flag reviwe in redis
-            redis_client.set(id, 1)
+               redis_client.set(id, 1)
 
 
 
