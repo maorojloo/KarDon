@@ -1,7 +1,7 @@
 import os
 from git import Repo
 import shutil
-
+form . import indexer_v2 
 
 repo_url = 'https://github.com/tajrobe/tajrobe.github.io.git'
 current_file_path = str(os.path.dirname(__file__)+'/tajrobe-repo')
@@ -58,6 +58,22 @@ for company in companys_list:
          date=yaml_data['date']
          if not redis_client.get(id):
             #inserting to elastic
+            doc={                              
+                  "Id" = id
+                  'description' =description 
+                  'rate' = rate
+                  'agent' =agent
+                  'email' =email
+                  'job_name' =job_name
+                  'state' =state
+                  'description' =description 
+                  'cons' = cons
+                  'date' = data
+            }
+            docs.app(doc)
+            if len(docs) == 100:
+               indexer_v2.kardon_generator(docs)
+               docs=[]
             #flag reviwe in redis
             redis_client.set(id, 1)
 

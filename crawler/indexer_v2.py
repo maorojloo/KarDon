@@ -5,7 +5,7 @@ from elasticsearch.helpers import bulk
 es = Elasticsearch(['localhost:9200'])
 
 # define the index name and documents
-index_name = 'my_index'
+#index_name = 'my_index'
 
 # Document gets retrived from kafka 
 
@@ -22,14 +22,16 @@ def tajrobe_generator(documents):
 def kardon_generator(docmuents):
   for document in documents:
     yield {
-          "_index": index_name,
+          "_index": 'tajrobe',
           "_source": document
           }
 
 # use the bulk helper function to insert the documents into Elasticsearch
-res = bulk(es, tajrobe_generator(documents), kardon_generator(documents))
-
+#res = bulk(es, tajrobe_generator(documents), kardon_generator(documents))
+def bulker(documents):
+    res= bulk(es, tajrobe_generator(documents))
+    print=res
 # print the response from Elasticsearch
-print(res)
+# print(res)
 
 
