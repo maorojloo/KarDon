@@ -60,15 +60,15 @@ for company in companys_list:
             #inserting to elastic
             doc={                              
                   "Id" : id
-                  'description' :description 
-                  'rate' : rate
-                  'agent' :agent
-                  'email' :email
-                  'job_name' :job_name
-                  'state' :state
-                  'description' :description 
-                  'cons' : cons
-                  'date' : data
+                  "description" :description 
+                  "rate" : rate
+                  "agent" :agent
+                  "email" :email
+                  "job_name" :job_name
+                  "state" :state
+                  "description" :description 
+                  "cons" : cons
+                  "date" : data
             }
             docs.app(doc)
             if len(docs) == 100:
