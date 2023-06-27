@@ -18,7 +18,7 @@ def clone_repository(repo_url, current_file_path):
       Repo.clone_from(repo_url, current_file_path)
 
 
-def get_folders_in_directory(directory):
+====def get_folders_in_directory(directory):
     folders = []
     for item in os.listdir(directory):
         item_path = os.path.join(directory, item)
@@ -38,7 +38,7 @@ def get_files_in_directory(directory):
 
 reviews_path=current_file_path+'/_data/review/'
 companys_list = get_folders_in_directory(reviews_path)
-docs = []
+
 for company in companys_list:
    company_review_path=reviews_path+company
    files=get_files_in_directory(company_review_path)
