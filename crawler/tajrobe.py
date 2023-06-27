@@ -2,6 +2,7 @@ import os
 from git import Repo
 import shutil
 import indexer_v2  
+import redis
 
 repo_url = 'https://github.com/tajrobe/tajrobe.github.io.git'
 current_file_path = str(os.path.dirname(__file__)+'/tajrobe-repo')
