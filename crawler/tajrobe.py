@@ -7,6 +7,7 @@ import redis
 repo_url = 'https://github.com/tajrobe/tajrobe.github.io.git'
 current_file_path = str(os.path.dirname(__file__)+'/tajrobe-repo')
 
+# print(current_file_path)
 
 redis_client = redis.Redis(host='localhost', port=6379, password='kardon!!213',  db=1)
 
@@ -35,7 +36,7 @@ def get_files_in_directory(directory):
             files.append(item)
     return files
 
-# clone_repository(repo_url, current_file_path)
+clone_repository(repo_url, current_file_path)
 
 reviews_path=current_file_path+'/_data/review/'
 companys_list = get_folders_in_directory(reviews_path)
