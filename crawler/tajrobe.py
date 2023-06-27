@@ -59,15 +59,15 @@ for company in companys_list:
          if not redis_client.get(id):
             #inserting to elastic
             doc={                              
-                  "Id" : id
-                  "description" :description 
-                  "rate" : rate
-                  "agent" :agent
-                  "email" :email
-                  "job_name" :job_name
-                  "state" :state
-                  "description" :description 
-                  "cons" : cons
+                  "Id" : id,
+                  "description" :description ,
+                  "rate" : rate,
+                  "agent" :agent,
+                  "email" :email,
+                  "job_name" :job_name,
+                  "state" :state,
+                  "description" :description, 
+                  "cons" : cons,
                   "date" : data
             }
             docs.app(doc)
