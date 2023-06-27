@@ -2,7 +2,8 @@ from elasticsearch import Elasticsearch
 from elasticsearch.helpers import bulk
 
 # create a connection to Elasticsearch
-es = Elasticsearch(['localhost:9200'])
+es = Elasticsearch(['elastic:KardonCoolPass1x3@localhost:9208'])
+
 
 # define the index name and documents
 #index_name = 'my_index'
@@ -15,14 +16,14 @@ es = Elasticsearch(['localhost:9200'])
 def tajrobe_generator(documents):
     for document in documents:
         yield {
-            "_index": 'index_name',
+            "_index": 'tajrobe',
             "_source": document
         }
 
 def kardon_generator(docmuents):
   for document in documents:
     yield {
-          "_index": 'tajrobe',
+          "_index": 'kardon1',
           "_source": document
           }
 
