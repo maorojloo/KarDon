@@ -100,7 +100,7 @@ for company in companys_list:
                   "cons" : cons,
                   "date" : date
             }
-            docs.app(doc)
+            docs.append(doc)
             if len(docs) == 100:
                indexer_v2.kardon_generator(docs)
                docs=[]
