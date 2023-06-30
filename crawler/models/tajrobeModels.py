@@ -20,7 +20,7 @@ class Review(Document):
     Id = Long()
     description = Object(NormalDoc)
     rate = Text()
-    agent = Text()
+    # agent = Text()
     email = Keyword()
     job_name = Text()
     state = Text()
