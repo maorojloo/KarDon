@@ -117,7 +117,7 @@ for company in companys_list:
                   "date" : date
             }
             # print("dict_remover_empty")
-            delete_empty_str_keys(doc)  
+            doc=delete_empty_str_keys(doc)  
 
             # print("append to dock arry")
             docs.append(doc)
