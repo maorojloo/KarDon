@@ -118,7 +118,7 @@ for company in companys_list:
             print("append to dock arry")
             docs.append(doc)
             if len(docs) == 100:
-                print("send to balcker")
+               print("send to balcker")
                res= indexer_v2.bulker(docs)
                print(res)
                docs=[]
