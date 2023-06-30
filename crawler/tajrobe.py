@@ -118,13 +118,13 @@ for company in companys_list:
             print("append to dock arry")
             docs.append(doc)
             if len(docs) == 100:
-               print("send to balcker")
-               res= indexer_v2.bulker(docs)
-               print(res)
-               docs=[]
+                print("send to balcker")
+                res= indexer_v2.bulker(docs)
+                print(res)
+                docs=[]
             #flag reviwe in redis
                 print("flag 1 in redis")
-               redis_client.set(id, 1)
+                redis_client.set(id, 1)
 
 
 
