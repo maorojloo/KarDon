@@ -51,6 +51,14 @@ example_doc={
          "pros" :"",
    }
 
+
+def dict_remover_empty(dict,key):
+    for i in dict:
+        if dict[i] == key:
+            del dict[i]
+        return dict
+
+
 clone_repository(repo_url, current_file_path)
 def deepupdate(original, update):
     """Recursively update a dict.
@@ -103,6 +111,8 @@ for company in companys_list:
                   "pros" :pros,
                   "date" : date
             }
+            dict_remover_empty(doc,"")
+            
             docs.append(doc)
             if len(docs) == 100:
                res= indexer_v2.bulker(docs)
