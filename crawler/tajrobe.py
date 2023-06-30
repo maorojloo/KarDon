@@ -47,7 +47,8 @@ example_doc={
          "state" :"",
          "description" :"", 
          "cons" : "",
-         "date" : ""
+         "date" : "",
+         "pros" :"",
    }
 
 clone_repository(repo_url, current_file_path)
@@ -86,18 +87,20 @@ for company in companys_list:
          description=yaml_data['description']
          cons=yaml_data['cons']
          date=yaml_data['date']
+         pros=yaml_data['pros']
          if not redis_client.get(id):
             #inserting to elastic
             doc={                              
                   "Id" : id,
                   "description" :description ,
                   "rate" : rate,
-                  "agent" :agent,
+                #   "agent" :agent,
                   "email" :email,
                   "job_name" :job_name,
-                  "state" :state,
+                  "job_state" :state,
                   "description" :description, 
                   "cons" : cons,
+                  "pros" :pros,
                   "date" : date
             }
             docs.append(doc)
