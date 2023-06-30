@@ -10,7 +10,7 @@ current_file_path = str(os.path.dirname(__file__)+'/tajrobe-repo')
 
 # print(current_file_path)
 
-redis_client = redis.Redis(host='localhost', port=6379, password='kardon!!213',  db=10)
+redis_client = redis.Redis(host='localhost', port=6379, password='kardon!!213',  db=1)
 
 def clone_repository(repo_url, current_file_path):
    try:
@@ -122,6 +122,7 @@ for company in companys_list:
                 res= indexer_v2.bulker(docs)
                 print(res)
                 docs=[]
+                res= indexer_v2.bulker(docs)
             #flag reviwe in redis
                 print("flag 1 in redis")
                 redis_client.set(id, 1)
