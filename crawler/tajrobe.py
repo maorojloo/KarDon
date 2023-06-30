@@ -115,6 +115,8 @@ for company in companys_list:
             }
             # print("dict_remover_empty")
             doc=dict_remover_empty(doc,"")
+            doc=dict_remover_empty(doc,[])
+
             # print("append to dock arry")
             docs.append(doc)
             if len(docs) == 100:
