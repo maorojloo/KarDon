@@ -16,7 +16,7 @@ es = Elasticsearch(['elastic:KardonCoolPass1x3@localhost:9208'])
 def tajrobe_generator(documents):
     for document in documents:
         yield {
-            "_index": 'tajrobe',
+            "_index": 'comments',
             "_source": document
         }
 
