@@ -52,11 +52,14 @@ example_doc={
    }
 
 
-def dict_remover_empty(dict,key):
-    for i in dict:
-        if dict[i] == key:
-            del dict[i]
-        return dict
+def delete_empty_str_keys(dct):
+    keys_to_delete = []
+    for key, value in dct.items():
+        if value == ""or []:
+            keys_to_delete.append(key)
+    for key in keys_to_delete:
+        del dct[key]
+    return dct
 
 
 clone_repository(repo_url, current_file_path)
@@ -114,8 +117,7 @@ for company in companys_list:
                   "date" : date
             }
             # print("dict_remover_empty")
-            doc=dict_remover_empty(doc,"")
-            doc=dict_remover_empty(doc,[])
+            delete_empty_str_keys(doc)  
 
             # print("append to dock arry")
             docs.append(doc)
