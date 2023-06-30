@@ -10,7 +10,7 @@ current_file_path = str(os.path.dirname(__file__)+'/tajrobe-repo')
 
 # print(current_file_path)
 
-redis_client = redis.Redis(host='localhost', port=6379, password='kardon!!213',  db=1)
+redis_client = redis.Redis(host='localhost', port=6379, password='kardon!!213',  db=2)
 
 def clone_repository(repo_url, current_file_path):
    try:
