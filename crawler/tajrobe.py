@@ -96,9 +96,9 @@ for company in companys_list:
          cons=yaml_data['cons']
          date=yaml_data['date']
          pros=yaml_data['pros']
-         print("check exsiting in redis or not")
+        #  print("check exsiting in redis or not")
          if not redis_client.get(id):
-            print("not in resdis")
+            # print("not in resdis")
             #inserting to elastic
             doc={                              
                   "Id" : id,
@@ -113,18 +113,20 @@ for company in companys_list:
                   "pros" :pros,
                   "date" : date
             }
-            print("dict_remover_empty")
+            # print("dict_remover_empty")
             doc=dict_remover_empty(doc,"")
-            print("append to dock arry")
+            # print("append to dock arry")
             docs.append(doc)
             if len(docs) == 100:
-                print("send to balcker")
+                # print("send to balcker")
                 res= indexer_v2.bulker(docs)
+                print(docs)
                 print(res)
                 docs=[]
                 res= indexer_v2.bulker(docs)
+
             #flag reviwe in redis
-                print("flag 1 in redis")
+                # print("flag 1 in redis")
                 redis_client.set(id, 1)
 
 
