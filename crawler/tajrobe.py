@@ -111,7 +111,7 @@ for company in companys_list:
                   "pros" :pros,
                   "date" : date
             }
-            dict_remover_empty(doc,"")
+            doc=dict_remover_empty(doc,"")
             
             docs.append(doc)
             if len(docs) == 100:
